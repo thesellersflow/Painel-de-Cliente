@@ -1,0 +1,40 @@
+name: Sync Painel SellersFlow
+
+on:
+  schedule:
+    # Roda diariamente às 8:00 BRT (11:00 UTC)
+    - cron: '0 11 * * *'
+  workflow_dispatch:  # Permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests google-api-python-client google-auth
+
+      - name: Run sync script
+        env:
+          CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+        run: python sync.py
+
+      - name: Commit updated data.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "SellersFlow Sync Bot"
+          git add data.json
+          git diff --staged --quiet || git commit -m "🔄 Auto-sync data.json $(date +'%Y-%m-%d %H:%M')"
+          git push
