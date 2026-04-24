@@ -2,7 +2,7 @@ name: Sync Painel SellersFlow
 
 on:
   schedule:
-- cron: '0 12-21 * * 1-5'
+  - cron: '0 12-21 * * 1-5'
   workflow_dispatch:
 
 permissions:
