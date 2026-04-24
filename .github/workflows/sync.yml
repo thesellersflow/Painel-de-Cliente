@@ -36,11 +36,13 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "SellersFlow Sync Bot"
+          git stash push data.json
+          git pull --rebase origin main
+          git stash pop || true
           git add data.json
           if git diff --staged --quiet; then
-            echo "Sem mudanças para commitar"
+            echo "Sem mudanças"
             exit 0
           fi
           git commit -m "🔄 Auto-sync data.json"
-          git pull --rebase origin main
           git push
