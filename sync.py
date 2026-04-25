@@ -11,6 +11,9 @@ Regras principais:
 import os
 import json
 import datetime
+from datetime import timezone, timedelta
+
+BRT = timezone(timedelta(hours=-3))
 import time
 import re
 import requests
@@ -463,7 +466,7 @@ def main():
     if not CLICKUP_TOKEN: raise RuntimeError("CLICKUP_TOKEN missing")
     if not GOOGLE_CREDS_JSON: raise RuntimeError("GOOGLE_CREDENTIALS_JSON missing")
     print("🚀 Sync SellersFlow iniciado")
-    print(f"  {datetime.datetime.now().isoformat()}\n")
+    print(f"  {datetime.datetime.now(BRT).isoformat()}\n")
 
     service = get_sheets_service()
     clients, atencao = read_mapa_geral(service)
@@ -472,7 +475,7 @@ def main():
     penetration = compute_penetration(clients)
 
     bundle = {
-        'generated_at': datetime.datetime.now().isoformat(),
+        'generated_at': datetime.datetime.now(BRT).isoformat(),
         'clients': clients, 'tasks': tasks, 'tasks_by_team': tasks_by_team,
         'expansoes': expansoes, 'atencao': atencao,
         'penetration': penetration, 'calendar': CALENDAR_EVENTS
