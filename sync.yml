@@ -2,9 +2,8 @@ name: Sync Painel SellersFlow
 
 on:
   schedule:
-    # Roda diariamente às 8:00 BRT (11:00 UTC)
-    - cron: '0 11 * * *'
-  workflow_dispatch:  # Permite rodar manualmente pelo botão "Run workflow"
+    - cron: '0 * * * *'   # toda hora
+  workflow_dispatch:        # botão manual no GitHub
 
 permissions:
   contents: write
@@ -13,7 +12,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,20 +20,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install requests google-api-python-client google-auth
+      - name: Install deps
+        run: pip install requests google-auth google-api-python-client
 
-      - name: Run sync script
+      - name: Run sync
         env:
           CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
         run: python sync.py
 
-      - name: Commit updated data.json
+      - name: Commit data.json
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "SellersFlow Sync Bot"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || git commit -m "🔄 Auto-sync data.json $(date +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet && echo "Nada para commitar" && exit 0
+          git commit -m "sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
