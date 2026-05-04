@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -604,20 +605,36 @@ footer {
     </div>
   </div>
   <nav style="padding: 8px 0; flex: 1; overflow-y: auto;">
-    <div class="ns">Modo Executivo</div>
+
+    <div class="ns">Empresa</div>
     <div class="ni on" data-view="executive">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg>
-      Dashboard Geral
+      Dashboard
     </div>
     <div class="ni" data-view="metas">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
       Metas &amp; Comissões
       <span class="mbadge" id="mbadge-nav" style="font-size:9px;padding:1px 7px">—</span>
     </div>
+    <div class="ni" data-view="ams">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      Times &amp; AMs
+      <span class="bdg warn" id="b-ams">0</span>
+    </div>
+    <div class="ni" data-view="canal-view">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/></svg>
+      Canais
+    </div>
+
+    <div class="ns">Operação</div>
     <div class="ni" data-view="atencao-global">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/></svg>
-      Pontos de Atenção
-      <span class="bdg warn" id="b-atencao-g">0</span>
+      Alertas da Carteira
+      <span class="bdg red" id="b-atencao-g">0</span>
+    </div>
+    <div class="ni" data-view="teams">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+      Tarefas
     </div>
     <div class="ni" data-view="calendar">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
@@ -625,59 +642,46 @@ footer {
       <span class="bdg info" id="b-calendar">0</span>
     </div>
     <div class="ni" data-view="insights-global">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
       Insights
     </div>
-    <div class="ni" data-view="teams">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
-      Tarefas por Time
-    </div>
-    <div class="ni" data-view="ams">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-      Visão por AM
-      <span class="bdg warn" id="b-ams">0</span>
-    </div>
-    <div class="ni" data-view="canal-view">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg>
-      Visão por Canal
-    </div>
 
-    <div class="ns">Visão do Cliente</div>
-    <div class="ni" data-view="overview">
+    <div class="ns" id="sb-cliente-header" style="display:none">Cliente Selecionado</div>
+    <div class="ni" data-view="overview" id="sb-overview" style="display:none">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
       Visão Geral
     </div>
-    <div class="ni" data-view="channels">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
-      Canais
+    <div class="ni" data-view="alerts" id="sb-alerts" style="display:none">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+      Alertas
+      <span class="bdg red" id="b-alerts">0</span>
     </div>
-    <div class="ni" data-view="tasks">
+    <div class="ni" data-view="channels" id="sb-channels" style="display:none">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
+      Canais do Cliente
+    </div>
+    <div class="ni" data-view="tasks" id="sb-tasks" style="display:none">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
       Atividades
       <span class="bdg red" id="b-tasks">0</span>
     </div>
-    <div class="ni" data-view="expansao">
+    <div class="ni" data-view="promos" id="sb-promos" style="display:none">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+      Promoções
+      <span class="bdg blue" id="b-promos">0</span>
+    </div>
+    <div class="ni" data-view="expansao" id="sb-expansao" style="display:none">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
       Expansões
       <span class="bdg warn" id="b-exp">0</span>
     </div>
-    <div class="ni" data-view="score">
+    <div class="ni" data-view="score" id="sb-score" style="display:none">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
       Score
     </div>
-    <div class="ni" data-view="alerts">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-      Alertas
-      <span class="bdg red" id="b-alerts">0</span>
-    </div>
-    <div class="ni" data-view="insights-client">
+    <div class="ni" data-view="insights-client" id="sb-insights" style="display:none">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
-      Insights do Cliente
-    </div>
-    <div class="ni" data-view="promos">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
-      Promoções
-      <span class="bdg blue" id="b-promos">0</span>
+      Insights
     </div>
   </nav>
   <div class="sb-foot">
@@ -770,9 +774,10 @@ function daysUntil(s) {
   return Math.round((new Date(s+'T00:00:00') - now) / 86400000);
 }
 function scoreColor(s) {
-  if (s >= 70) return { c: 'var(--green)', cls: 'tg' };
-  if (s >= 50) return { c: 'var(--yellow)', cls: 'ty' };
-  return { c: 'var(--red)', cls: 'tr' };
+  if (s == null) return { c: 'var(--muted)', cls: 'tz', lbl: 'sem score' };
+  if (s >= 70) return { c: 'var(--green)',  cls: 'tg', lbl: 'saudável' };
+  if (s >= 50) return { c: 'var(--yellow)', cls: 'ty', lbl: 'atenção' };
+  return { c: 'var(--red)', cls: 'tr', lbl: 'crítico' };
 }
 function statusBadge(st) {
   const m = { 'Ativo': 'tg', 'Setup': 'tc', 'Stand By': 'tz', 'México': 'tp' };
@@ -1914,6 +1919,29 @@ function computeInsights(slug) {
   return insights;
 }
 
+// ─── build metas intelligence for a client ───────────────────
+function getMetasForClient(clientName) {
+  // Match dados[] by cli name (fuzzy: normalize)
+  const norm = s => (s||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+  const cn = norm(clientName);
+  return (typeof dados !== 'undefined' ? dados : []).filter(r => norm(r.cli).startsWith(cn) || norm(clientName).includes(norm(r.cli).slice(0,6)));
+}
+function clientMetaSummary(clientName) {
+  const rows = getMetasForClient(clientName);
+  if (!rows.length) return null;
+  const meta  = rows.reduce((s,r) => s + (r.meta||0), 0);
+  const real  = rows.reduce((s,r) => s + (r.real||0), 0);
+  const pct   = meta > 0 ? real/meta : null;
+  // Historical trend: Jan, Fev, Mar vs current
+  const key = r => r.cli+'||'+(r.canal||'');
+  const hist = typeof HIST_CLI !== 'undefined' ? HIST_CLI : {};
+  let janTotal=0, fevTotal=0, marTotal=0;
+  rows.forEach(r => { const h=hist[key(r)]||{}; janTotal+=h['Jan']||0; fevTotal+=h['Fev']||0; marTotal+=h['Mar']||0; });
+  const mediaAntes = (janTotal+fevTotal+marTotal)/3;
+  const tendencia  = mediaAntes > 0 ? real/mediaAntes : null;
+  return { meta, real, pct, mediaAntes, tendencia, rows };
+}
+
 function buildAlerts(d) {
   const slug = STATE.currentClient;
   const alerts = [];
@@ -1925,6 +1953,26 @@ function buildAlerts(d) {
   if (caseAberto.length > 0) alerts.push({ t:'cr', i:'🚨', h:`${caseAberto.length} case${caseAberto.length>1?'s':''} aberto${caseAberto.length>1?'s':''}`, desc:'Requer atenção imediata', type:'case', payload:{ tasks: caseAberto } });
   if (urgentTasks.length >= 3) alerts.push({ t:'cr', i:'🔴', h:`${urgentTasks.length} tarefas urgentes`, desc:'Concentração alta de pendências', type:'tasks', payload:{ tasks: urgentTasks } });
   else if (urgentTasks.length > 0) alerts.push({ t:'wa', i:'⚠️', h:`${urgentTasks.length} tarefa${urgentTasks.length>1?'s':''} urgente${urgentTasks.length>1?'s':''}`, desc:'Acompanhar no ClickUp', type:'tasks', payload:{ tasks: urgentTasks } });
+
+  // ─── METAS intelligence ───────────────────────────────────
+  const ms = clientMetaSummary(d.name);
+  if (ms) {
+    if (ms.pct !== null) {
+      if (ms.pct < 0.5)
+        alerts.push({ t:'cr', i:'🎯', h:`Meta: ${Math.round(ms.pct*100)}% atingido`, desc:`Gap de R$ ${(ms.meta-ms.real).toLocaleString('pt-BR',{maximumFractionDigits:0})} — muito abaixo`, type:'meta', payload: ms });
+      else if (ms.pct < 0.8)
+        alerts.push({ t:'wa', i:'📊', h:`Meta: ${Math.round(ms.pct*100)}% atingido`, desc:`Abaixo de 80% — acompanhamento necessário`, type:'meta', payload: ms });
+    }
+    if (ms.tendencia !== null) {
+      if (ms.tendencia < 0.8)
+        alerts.push({ t:'cr', i:'📉', h:`Queda forte vs. média anterior`, desc:`${Math.round((1-ms.tendencia)*100)}% abaixo da média Jan-Mar`, type:'tendencia', payload: ms });
+      else if (ms.tendencia < 0.9)
+        alerts.push({ t:'wa', i:'↘️', h:`Tendência de queda`, desc:`${Math.round((1-ms.tendencia)*100)}% abaixo da média anterior`, type:'tendencia', payload: ms });
+    }
+    // Selling zero with an active meta
+    if (ms.meta > 0 && ms.real === 0)
+      alerts.push({ t:'cr', i:'🔴', h:'Sem vendas registradas', desc:`Meta de R$ ${ms.meta.toLocaleString('pt-BR',{maximumFractionDigits:0})} — zero realizado`, type:'meta', payload: ms });
+  }
 
   if (d.score != null) {
     if (d.score < 40) alerts.push({ t:'cr', i:'📉', h:'Score crítico', desc:`Média ${d.score} — intervenção necessária`, type:'score', payload:{ score: d.score } });
@@ -1939,19 +1987,18 @@ function buildAlerts(d) {
   if (d.status === 'Stand By') alerts.push({ t:'wa', i:'⏸', h:'Cliente em Stand By', desc:'Operação pausada', type:'meta', payload:{} });
   if (d.status === 'Setup') alerts.push({ t:'in', i:'⚙', h:'Cliente em Setup', desc:'Onboarding em andamento', type:'meta', payload:{} });
 
-  // Calendar — 10 days before
-  const now = new Date();
-  now.setHours(0,0,0,0);
+  // Promoções próximas
+  const now = new Date(); now.setHours(0,0,0,0);
   const in10 = new Date(now.getTime() + 10*24*60*60*1000);
   for (const ev of STATE.data.calendar) {
     const dt = new Date(ev.date);
     if (dt < now || dt > in10) continue;
-    if (ev.type !== 'promo') continue; // só mostra promos como alerta
+    if (ev.type !== 'promo') continue;
     const days = daysUntil(ev.date);
-    alerts.push({ t:'ev', i:'📅', h:`${ev.title} em ${days} dias`, desc:`Preparação recomendada`, type:'calendar', payload: ev });
+    alerts.push({ t:'ev', i:'🏷️', h:`Promoção: ${ev.title} em ${days}d`, desc:'Preparação recomendada', type:'calendar', payload: ev });
   }
 
-  // Atenção
+  // Atenção (da planilha)
   const atencao = STATE.data.atencao[slug] || [];
   for (const a of atencao) {
     const sev = (a.prioridade||'').toLowerCase().includes('crít') ? 'cr' : 'wa';
@@ -2413,42 +2460,107 @@ function renderPromosAM(amName) {
 function renderAtencaoGlobal() {
   const { clients, atencao } = STATE.data;
   const items = [];
+
+  // ── Atenção da planilha (pontos manuais)
   for (const [slug, list] of Object.entries(atencao)) {
-    const c = clients[slug];
-    if (!c) continue;
+    const cl = clients[slug];
+    if (!cl) continue;
     for (const a of list) {
-      items.push({ slug, client: c, atencao: {
-        t: (a.prioridade||'').toLowerCase().includes('crít') ? 'cr' : (a.prioridade||'').toLowerCase().includes('aten') ? 'wa' : 'info',
-        text: a.desc || a.tipo || '—',
-        src: a.canal || '—',
-      }});
+      items.push({ slug, name: cl.name, am: cl.am, sev: 'wa', src: '📝 Planilha',
+        title: a.desc || a.tipo || '—', sub: a.canal || a.prioridade || '—' });
     }
   }
 
+  // ── Metas: atingimento crítico e tendências (via dados embutidos)
+  if (typeof dados !== 'undefined') {
+    // Group by client
+    const byClient = {};
+    dados.forEach(r => {
+      if (!byClient[r.cli]) byClient[r.cli] = { meta:0, real:0, rows:[] };
+      byClient[r.cli].meta += r.meta||0;
+      byClient[r.cli].real += r.real||0;
+      byClient[r.cli].rows.push(r);
+    });
+    const hist = typeof HIST_CLI !== 'undefined' ? HIST_CLI : {};
+
+    for (const [cli, g] of Object.entries(byClient)) {
+      if (g.meta <= 0) continue;
+      const pct = g.real / g.meta;
+      // Historical trend
+      let janT=0,fevT=0,marT=0;
+      g.rows.forEach(r => { const h=hist[r.cli+'||'+(r.canal||'')]||{}; janT+=h['Jan']||0; fevT+=h['Fev']||0; marT+=h['Mar']||0; });
+      const mediaAntes = (janT+fevT+marT)/3;
+      const tend = mediaAntes > 0 ? g.real/mediaAntes : null;
+
+      // Find slug
+      const slug = Object.keys(clients).find(s => {
+        const cl = clients[s];
+        return cl && (cl.name||'').toLowerCase().includes(cli.toLowerCase().slice(0,8));
+      }) || null;
+      const am = slug ? (clients[slug]||{}).am : '—';
+
+      if (pct < 0.5) {
+        items.push({ slug, name: cli, am, sev: 'cr', src: '🎯 Meta',
+          title: `Meta: ${Math.round(pct*100)}% atingido`,
+          sub: `Gap de R$ ${(g.meta-g.real).toLocaleString('pt-BR',{maximumFractionDigits:0})} · Realizado: R$ ${g.real.toLocaleString('pt-BR',{maximumFractionDigits:0})}` });
+      } else if (pct < 0.75) {
+        items.push({ slug, name: cli, am, sev: 'wa', src: '📊 Meta',
+          title: `Meta: ${Math.round(pct*100)}% atingido`,
+          sub: `Abaixo de 75% · R$ ${g.real.toLocaleString('pt-BR',{maximumFractionDigits:0})} de R$ ${g.meta.toLocaleString('pt-BR',{maximumFractionDigits:0})}` });
+      }
+      if (tend !== null && tend < 0.8 && pct >= 0.5) {
+        items.push({ slug, name: cli, am, sev: 'wa', src: '📉 Tendência',
+          title: `Queda vs. histórico: −${Math.round((1-tend)*100)}%`,
+          sub: `Média Jan-Mar: R$ ${mediaAntes.toLocaleString('pt-BR',{maximumFractionDigits:0})} · Atual: R$ ${g.real.toLocaleString('pt-BR',{maximumFractionDigits:0})}` });
+      }
+      if (g.meta > 0 && g.real === 0) {
+        items.push({ slug, name: cli, am, sev: 'cr', src: '🔴 Zero',
+          title: 'Sem vendas registradas',
+          sub: `Meta: R$ ${g.meta.toLocaleString('pt-BR',{maximumFractionDigits:0})} — zero realizado` });
+      }
+    }
+  }
+
+  // Sort: cr first
+  items.sort((a,b) => (a.sev==='cr'?0:1) - (b.sev==='cr'?0:1));
+
+  if (!items.length) {
+    return `<div class="page-header"><div><div class="ph-title">Alertas da Carteira</div><div class="ph-sub">Pontos de atenção operacionais e de meta</div></div></div>
+    <div class="card" style="text-align:center;padding:40px;color:var(--muted)">✅ Nenhum ponto de atenção cadastrado</div>`;
+  }
+
+  const cr = items.filter(i=>i.sev==='cr'), wa = items.filter(i=>i.sev!=='cr');
+
+  const section = (title, color, list) => !list.length ? '' : `
+  <div class="card">
+    <div class="ct" style="color:${color}">${title} <span class="ct-sub">${list.length} ite${list.length>1?'ns':'m'}</span></div>
+    ${list.map(i => `
+    <div class="ai ${i.sev}" style="cursor:${i.slug?'pointer':'default'}" ${i.slug?`onclick="selectClient('${i.slug}')"`:''}>
+      <div class="aico">${i.src.split(' ')[0]}</div>
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+          <span class="bold" style="font-size:12px">${esc(i.name)}</span>
+          <span class="tag tz" style="font-size:9px">${esc(i.src)}</span>
+          ${i.am ? `<span class="tag tbl2" style="font-size:9px">${esc(i.am)}</span>` : ''}
+        </div>
+        <div class="atit" style="margin-top:2px">${esc(i.title)}</div>
+        <div class="adsc">${esc(i.sub)}</div>
+      </div>
+    </div>`).join('')}
+  </div>`;
+
   return `
   <div class="page-header">
-    <div><div class="ph-title">Pontos de Atenção — Geral</div><div class="ph-sub">${items.length} pontos registrados pelo time · Compilado de todos os clientes</div></div>
-    <button class="back-btn" data-action="set-view" data-view="executive">← Dashboard</button>
+    <div><div class="ph-title">Alertas da Carteira</div>
+    <div class="ph-sub">${items.length} alertas · ${cr.length} críticos · ${wa.length} avisos · dados de metas + ClickUp + planilha</div></div>
+    <div style="display:flex;gap:8px">
+      <span class="tag tr">${cr.length} críticos</span>
+      <span class="tag ty">${wa.length} avisos</span>
+    </div>
   </div>
-  <div class="card">
-    ${items.length === 0 ? '<div style="color:var(--muted);font-size:13px;text-align:center;padding:40px 0">Nenhum ponto de atenção registrado ainda. Preencha a aba "Pontos de Atenção" na planilha Mapa Geral.</div>' : `
-    <table>
-      <thead><tr><th>Cliente</th><th>AM</th><th>Ponto de Atenção</th><th>Fonte</th><th>Severidade</th></tr></thead>
-      <tbody>
-      ${items.map(it => {
-        const sev = it.atencao.t === 'cr' ? 'tr' : it.atencao.t === 'wa' ? 'ty' : 'tbl2';
-        const sevL = it.atencao.t === 'cr' ? 'CRÍTICO' : it.atencao.t === 'wa' ? 'ATENÇÃO' : 'INFO';
-        return `<tr class="clickable" data-action="select-client" data-slug="${esc(it.slug)}">
-          <td><span class="client-link" style="font-weight:700">${esc(it.client.name)}</span></td>
-          <td style="color:var(--text-s)">${esc(it.client.am)}</td>
-          <td>${esc(it.atencao.text)}</td>
-          <td style="color:var(--muted);font-size:10px">${esc(it.atencao.src)}</td>
-          <td><span class="tag ${sev}">${sevL}</span></td>
-        </tr>`;
-      }).join('')}
-      </tbody>
-    </table>`}
-  </div>`;
+  ${section('🔴 Críticos', 'var(--red)', cr)}
+  ${section('⚠️ Avisos', 'var(--yellow)', wa)}
+  `;
 }
 
 function renderCalendar() {
@@ -3012,7 +3124,7 @@ function renderOverview(d) {
   const alerts = buildAlerts(d);
   const scoresByCanal = d.sc || [];
   const atencaoL = STATE.data.atencao[STATE.currentClient] || [];
-  const initials = d.name.split(' ').map(w => w[0]).slice(0, 2).join('').toUpperCase();
+  const initials = (d.name || '?').split(' ').map(w => w[0] || '').filter(Boolean).slice(0, 2).join('').toUpperCase() || '?';
   const logoColor = ['#0a1535','#1a3320','#300018','#1a3a1a','#2a1a40','#3a1a1a','#1a3a3a','#3a2a1a'][d.name.length % 8];
 
   return `
@@ -3415,7 +3527,18 @@ function setView(v) {
 }
 
 function selectClient(slug) {
-  if (!STATE.data || !STATE.data.clients[slug]) return;
+  if (!STATE.data) return;
+  if (slug === '__sf__') {
+    STATE.currentClient = null;
+    STATE.currentView = 'executive';
+    document.querySelectorAll('.ni').forEach(n => n.classList.toggle('on', n.dataset.view === 'executive'));
+    document.getElementById('sel').value = '__sf__';
+    updateBadges();
+    render();
+    window.scrollTo(0, 0);
+    return;
+  }
+  if (!STATE.data.clients[slug]) return;
   STATE.currentClient = slug;
   STATE.currentView = 'overview';
   document.querySelectorAll('.ni').forEach(n => n.classList.toggle('on', n.dataset.view === 'overview'));
@@ -3499,7 +3622,7 @@ function buildSelect() {
     (byStatus[d.status] = byStatus[d.status] || []).push({ slug, name: d.name });
   });
   const order = ['Ativo','Setup','Stand By','México','Outros'];
-  let html = '';
+  let html = '<option value="__sf__">🏢 SellersFlow (Visão Geral)</option>';
   order.forEach(st => {
     if (!byStatus[st]) return;
     const sorted = byStatus[st].sort((a, b) => a.name.localeCompare(b.name));
@@ -3518,28 +3641,45 @@ function updateBadges() {
   if (!STATE.data) return;
   const slug = STATE.currentClient;
   const d = slug ? STATE.data.clients[slug] : null;
+
+  // Show/hide client sidebar section
+  const clientViews = ['sb-cliente-header','sb-overview','sb-alerts','sb-channels','sb-tasks','sb-promos','sb-expansao','sb-score','sb-insights'];
+  const show = !!d;
+  clientViews.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = show ? '' : 'none';
+  });
+
   if (d) {
     const tasks = STATE.data.tasks[slug] || [];
     const openT = tasks.filter(t => t.st !== 'feito').length;
     const exp = (STATE.data.expansoes[slug] || []).length;
     const alerts = buildAlerts(d);
+    const critWarn = alerts.filter(a => a.t === 'cr' || a.t === 'wa').length;
     document.getElementById('b-tasks').textContent = openT;
-    document.getElementById('b-alerts').textContent = alerts.filter(a => a.t === 'cr' || a.t === 'wa').length;
+    document.getElementById('b-alerts').textContent = critWarn;
     document.getElementById('b-exp').textContent = exp;
-    const promos = ((STATE.data.promos_by_client || {})[slug] || []).filter(p => p.status === 'ativa' || p.status === 'planejada');
     const bPromos = document.getElementById('b-promos');
+    const promos = ((STATE.data.promos_by_client || {})[slug] || []).filter(p => p.status === 'ativa' || p.status === 'planejada');
     if (bPromos) bPromos.textContent = promos.length;
   }
+
+  // Global: count clients with critical alerts from metas
   let totalAtencao = 0;
   for (const l of Object.values(STATE.data.atencao)) totalAtencao += l.length;
+  // Also count clients with meta < 50%
+  if (typeof dados !== 'undefined') {
+    const clientsWithCritMeta = new Set();
+    dados.forEach(r => { if (r.meta > 0 && r.real / r.meta < 0.5) clientsWithCritMeta.add(r.cli); });
+    totalAtencao += clientsWithCritMeta.size;
+  }
   document.getElementById('b-atencao-g').textContent = totalAtencao;
+
   const now = new Date(); now.setHours(0,0,0,0);
   const in30 = new Date(now.getTime() + 30*24*60*60*1000);
-  const upc = STATE.data.calendar.filter(e => {
-    const dt = new Date(e.date);
-    return dt >= now && dt <= in30;
-  });
+  const upc = STATE.data.calendar.filter(e => { const dt = new Date(e.date); return dt >= now && dt <= in30; });
   document.getElementById('b-calendar').textContent = upc.length;
+
   if (STATE.data.am_summary) {
     let totalStalled = 0;
     for (const am of Object.values(STATE.data.am_summary)) totalStalled += am.stalled_tasks_count || 0;
@@ -3547,18 +3687,18 @@ function updateBadges() {
     if (elAm) elAm.textContent = totalStalled;
   }
 
-  // Metas badge — atingimento empresa
-  if (dados && dados.length) {
+  // Metas badge
+  if (typeof dados !== 'undefined' && dados.length) {
     const e = calcEmp();
-    const pct = Math.round((e.pct || 0) * 100);
     const el = document.getElementById('mbadge-nav');
     if (el) {
-      el.textContent = pct + '%';
+      el.textContent = Math.round((e.pct||0)*100) + '%';
       el.style.background = e.pct >= 1 ? 'rgba(0,229,160,0.15)' : e.pct >= 0.8 ? 'rgba(244,196,48,0.15)' : 'rgba(255,77,109,0.15)';
       el.style.color = e.pct >= 1 ? 'var(--green)' : e.pct >= 0.8 ? 'var(--yellow)' : 'var(--red)';
       el.style.borderColor = e.pct >= 1 ? 'rgba(0,229,160,0.3)' : e.pct >= 0.8 ? 'rgba(244,196,48,0.3)' : 'rgba(255,77,109,0.3)';
     }
-    document.getElementById('mes-badge').textContent = mes;
+    const mbel = document.getElementById('mes-badge');
+    if (mbel) mbel.textContent = mes;
   }
 }
 
@@ -3573,9 +3713,10 @@ async function boot() {
 
     buildSelect();
 
-    const defSlug = STATE.data.clients.duxnutrition ? 'duxnutrition' : Object.keys(STATE.data.clients)[0];
-    document.getElementById('sel').value = defSlug;
-    STATE.currentClient = defSlug;
+    // Default: SellersFlow executive view
+    document.getElementById('sel').value = '__sf__';
+    STATE.currentClient = null;
+    STATE.currentView = 'executive';
 
     document.getElementById('sel').addEventListener('change', (e) => {
       selectClient(e.target.value);
