@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T19:14:10.422429-03:00",
-  "updated_at": "2026-05-25T19:14:10.422429-03:00",
+  "generated_at": "2026-05-25T21:03:30.250336-03:00",
+  "updated_at": "2026-05-25T21:03:30.250336-03:00",
   "clients": {
     "1qsolutions": {
       "name": "1Q Solutions",
@@ -33144,7 +33144,7 @@
       "tasks": [
         {
           "id": "86ahpg2v8",
-          "n": "(Guday Shopee) Submeter Tabela Nutricional",
+          "n": "(Guday Netshoes) Submeter Tabela Nutricional",
           "st": "a iniciar",
           "folder": "Guday",
           "list": "GESTÃO",
@@ -123722,7 +123722,7 @@
     "guday": [
       {
         "id": "86ahpg2v8",
-        "n": "(Guday Shopee) Submeter Tabela Nutricional",
+        "n": "(Guday Netshoes) Submeter Tabela Nutricional",
         "st": "a iniciar",
         "folder": "Guday",
         "list": "GESTÃO",
