@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T15:03:15.336892-03:00",
-  "updated_at": "2026-05-30T15:03:15.336892-03:00",
+  "generated_at": "2026-05-30T16:27:59.508704-03:00",
+  "updated_at": "2026-05-30T16:27:59.508704-03:00",
   "clients": {
     "1qsolutions": {
       "name": "1Q Solutions",
@@ -176192,7 +176192,7 @@
         "pct_subindo": 45,
         "pct_caindo": 32
       },
-      "health": 11,
+      "health": 32,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -177150,7 +177150,7 @@
         "pct_subindo": 53,
         "pct_caindo": 27
       },
-      "health": 11,
+      "health": 32,
       "promos": [
         {
           "id": "86agu0y8m",
@@ -178208,7 +178208,7 @@
         "pct_subindo": 42,
         "pct_caindo": 25
       },
-      "health": 10,
+      "health": 32,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -179243,7 +179243,7 @@
         "pct_subindo": 33,
         "pct_caindo": 22
       },
-      "health": 12,
+      "health": 34,
       "promos": [
         {
           "id": "86afc9em7",
@@ -180181,7 +180181,7 @@
         "pct_subindo": 30,
         "pct_caindo": 61
       },
-      "health": 15,
+      "health": 36,
       "promos": [
         {
           "id": "86agyfmkw",
@@ -181578,7 +181578,7 @@
         "pct_subindo": 29,
         "pct_caindo": 36
       },
-      "health": 16,
+      "health": 38,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -182547,7 +182547,7 @@
         "pct_subindo": 21,
         "pct_caindo": 50
       },
-      "health": 15,
+      "health": 36,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -183273,7 +183273,7 @@
         "pct_subindo": 21,
         "pct_caindo": 44
       },
-      "health": 20,
+      "health": 41,
       "promos": [
         {
           "id": "86ah5e1e8",
@@ -187144,248 +187144,7 @@
       }
     ],
     "top_caindo": [],
-    "ranking_am": [
-      {
-        "am": "Amanda Reis",
-        "rank": 1,
-        "score": 8.3,
-        "score_final": 8.3,
-        "rating": "⭐⭐⭐⭐⭐",
-        "meta_pct": "86,08%",
-        "cresc": "10,0",
-        "carteira": "6,8",
-        "oport": "10,0",
-        "risco": "9,6",
-        "subindo": 19,
-        "estagnado": 4,
-        "caindo": 5
-      },
-      {
-        "am": "Amanda Reis",
-        "rank": 2,
-        "score": 8.3,
-        "score_final": 8.3,
-        "rating": "⭐⭐⭐⭐⭐",
-        "meta_pct": "8,61",
-        "cresc": "10,0",
-        "carteira": "6,8",
-        "oport": "10,0",
-        "risco": "9,6",
-        "subindo": 19,
-        "estagnado": 4,
-        "caindo": 5
-      },
-      {
-        "am": "Ana Hoehne",
-        "rank": 3,
-        "score": 8.1,
-        "score_final": 8.1,
-        "rating": "⭐⭐⭐⭐⭐",
-        "meta_pct": "87,44%",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "7,0",
-        "risco": "9,5",
-        "subindo": 11,
-        "estagnado": 7,
-        "caindo": 3
-      },
-      {
-        "am": "Ana Hoehne",
-        "rank": 4,
-        "score": 8.1,
-        "score_final": 8.1,
-        "rating": "⭐⭐⭐⭐⭐",
-        "meta_pct": "8,74",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "7,0",
-        "risco": "9,5",
-        "subindo": 11,
-        "estagnado": 7,
-        "caindo": 3
-      },
-      {
-        "am": "Mario Magalhães",
-        "rank": 5,
-        "score": 7.8,
-        "score_final": 7.8,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "85,83%",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "10,0",
-        "risco": "9,7",
-        "subindo": 26,
-        "estagnado": 17,
-        "caindo": 9
-      },
-      {
-        "am": "Mario Magalhães",
-        "rank": 6,
-        "score": 7.8,
-        "score_final": 7.8,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "8,58",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "10,0",
-        "risco": "9,7",
-        "subindo": 26,
-        "estagnado": 17,
-        "caindo": 9
-      },
-      {
-        "am": "Karla Chiacchio",
-        "rank": 7,
-        "score": 7.7,
-        "score_final": 7.7,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "74,57%",
-        "cresc": "10,0",
-        "carteira": "7,0",
-        "oport": "10,0",
-        "risco": "5,4",
-        "subindo": 16,
-        "estagnado": 3,
-        "caindo": 4
-      },
-      {
-        "am": "Rafaela Lopes",
-        "rank": 8,
-        "score": 7.7,
-        "score_final": 7.7,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "89,66%",
-        "cresc": "9,8",
-        "carteira": "5,3",
-        "oport": "1,0",
-        "risco": "9,9",
-        "subindo": 8,
-        "estagnado": 2,
-        "caindo": 5
-      },
-      {
-        "am": "Karla Chiacchio",
-        "rank": 9,
-        "score": 7.7,
-        "score_final": 7.7,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "7,46",
-        "cresc": "10,0",
-        "carteira": "7,0",
-        "oport": "10,0",
-        "risco": "5,4",
-        "subindo": 16,
-        "estagnado": 3,
-        "caindo": 4
-      },
-      {
-        "am": "Rafaela Lopes",
-        "rank": 10,
-        "score": 7.7,
-        "score_final": 7.7,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "8,97",
-        "cresc": "9,8",
-        "carteira": "5,3",
-        "oport": "1,0",
-        "risco": "9,9",
-        "subindo": 8,
-        "estagnado": 2,
-        "caindo": 5
-      },
-      {
-        "am": "Jackeline Fidêncio",
-        "rank": 11,
-        "score": 7.4,
-        "score_final": 7.4,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "78,93%",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "0,1",
-        "risco": "4,8",
-        "subindo": 7,
-        "estagnado": 3,
-        "caindo": 2
-      },
-      {
-        "am": "Jackeline Fidêncio",
-        "rank": 12,
-        "score": 7.4,
-        "score_final": 7.4,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "7,89",
-        "cresc": "10,0",
-        "carteira": "5,0",
-        "oport": "0,1",
-        "risco": "4,8",
-        "subindo": 7,
-        "estagnado": 3,
-        "caindo": 2
-      },
-      {
-        "am": "Giovanna Avelar",
-        "rank": 13,
-        "score": 7.3,
-        "score_final": 7.3,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "89,38%",
-        "cresc": "10,0",
-        "carteira": "3,9",
-        "oport": "0,6",
-        "risco": "9,9",
-        "subindo": 7,
-        "estagnado": 9,
-        "caindo": 2
-      },
-      {
-        "am": "Giovanna Avelar",
-        "rank": 14,
-        "score": 7.3,
-        "score_final": 7.3,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "8,94",
-        "cresc": "10,0",
-        "carteira": "3,9",
-        "oport": "0,6",
-        "risco": "9,9",
-        "subindo": 7,
-        "estagnado": 9,
-        "caindo": 2
-      },
-      {
-        "am": "Leticia Santos",
-        "rank": 15,
-        "score": 7.2,
-        "score_final": 7.2,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "92,69%",
-        "cresc": "10,0",
-        "carteira": "3,3",
-        "oport": "0,2",
-        "risco": "9,6",
-        "subindo": 4,
-        "estagnado": 4,
-        "caindo": 4
-      },
-      {
-        "am": "Leticia Santos",
-        "rank": 16,
-        "score": 7.2,
-        "score_final": 7.2,
-        "rating": "⭐⭐⭐⭐",
-        "meta_pct": "9,27",
-        "cresc": "10,0",
-        "carteira": "3,3",
-        "oport": "0,2",
-        "risco": "9,6",
-        "subindo": 4,
-        "estagnado": 4,
-        "caindo": 4
-      }
-    ],
+    "ranking_am": [],
     "sensibilidade": {
       "Cliente + Canal": {
         "semaforo": "Semáforo\nSensibilidade",
