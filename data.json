@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:11:50.813990-03:00",
-  "updated_at": "2026-06-06T12:11:50.813990-03:00",
+  "generated_at": "2026-06-06T14:06:48.266898-03:00",
+  "updated_at": "2026-06-06T14:06:48.266898-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -14076,7 +14076,7 @@
         {
           "id": "86ahxf2k7",
           "n": "Desconto Progressivo 6.6 - 2un 10% - Condor Meli",
-          "st": "a iniciar",
+          "st": "feito",
           "folder": "Condor",
           "list": "Condor - Amazon 1P",
           "ow": "Rafaela Lopes",
@@ -92468,7 +92468,7 @@
       {
         "id": "86ahxf2k7",
         "n": "Desconto Progressivo 6.6 - 2un 10% - Condor Meli",
-        "st": "a iniciar",
+        "st": "feito",
         "folder": "Condor",
         "list": "Condor - Amazon 1P",
         "ow": "Rafaela Lopes",
@@ -157816,8 +157816,8 @@
       "active_clients": 5,
       "standby_clients": 0,
       "total_tasks": 286,
-      "open_tasks_total": 142,
-      "overdue": 44,
+      "open_tasks_total": 141,
+      "overdue": 43,
       "no_due": 60,
       "no_due_tasks": 60,
       "stale_30": 51,
@@ -158532,8 +158532,8 @@
           "name": "Condor",
           "status": "Ativo",
           "tasks": 72,
-          "open": 56,
-          "overdue": 4,
+          "open": 55,
+          "overdue": 3,
           "stale": 8,
           "score": 15.0
         },
@@ -158584,8 +158584,8 @@
           "name": "Condor",
           "status": "Ativo",
           "tasks": 72,
-          "open": 56,
-          "overdue": 4,
+          "open": 55,
+          "overdue": 3,
           "stale": 8,
           "score": 15.0
         },
@@ -158636,8 +158636,8 @@
           "name": "Condor",
           "status": "Ativo",
           "tasks": 72,
-          "open": 56,
-          "overdue": 4,
+          "open": 55,
+          "overdue": 3,
           "stale": 8,
           "score": 15.0
         },
@@ -158913,7 +158913,7 @@
           "start": "",
           "due": "2026-06-06",
           "status": "planejada",
-          "st": "a iniciar",
+          "st": "feito",
           "url": "https://app.clickup.com/t/86ahxf2k7"
         },
         {
@@ -175281,7 +175281,7 @@
       "start": "",
       "due": "2026-06-06",
       "status": "planejada",
-      "st": "a iniciar",
+      "st": "feito",
       "url": "https://app.clickup.com/t/86ahxf2k7"
     },
     {
@@ -175340,7 +175340,7 @@
         "start": "",
         "due": "2026-06-06",
         "status": "planejada",
-        "st": "a iniciar",
+        "st": "feito",
         "url": "https://app.clickup.com/t/86ahxf2k7"
       }
     ],
