@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T18:00:51.239979-03:00",
-  "updated_at": "2026-06-06T18:00:51.239979-03:00",
+  "generated_at": "2026-06-06T19:03:37.939254-03:00",
+  "updated_at": "2026-06-06T19:03:37.939254-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -35806,6 +35806,25 @@
       ],
       "tasks": [
         {
+          "id": "86ahxq2c6",
+          "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
+          "st": "a iniciar",
+          "folder": "Integralmedica",
+          "list": "Integralmédica - GESTÃO",
+          "ow": "Vitor Martins | Marketing",
+          "due": "2026-06-09",
+          "start": "",
+          "created": "2026-06-06",
+          "updated": "2026-06-06",
+          "pri": "—",
+          "url": "https://app.clickup.com/t/86ahxq2c6",
+          "team": "integralmedica",
+          "is_promo": false,
+          "days_stalled": 0,
+          "client_slug": "integralmedicaafterclicks",
+          "client_name": "Integralmedica AfterClicks"
+        },
+        {
           "id": "86ahx0h2x",
           "n": "[IntegralMedica] Plano de Mídias",
           "st": "em andamento",
@@ -35818,25 +35837,6 @@
           "updated": "2026-06-06",
           "pri": "—",
           "url": "https://app.clickup.com/t/86ahx0h2x",
-          "team": "integralmedica",
-          "is_promo": false,
-          "days_stalled": 0,
-          "client_slug": "integralmedicaafterclicks",
-          "client_name": "Integralmedica AfterClicks"
-        },
-        {
-          "id": "86ahxgnz2",
-          "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
-          "st": "em andamento",
-          "folder": "Integralmedica",
-          "list": "Integralmédica - GESTÃO",
-          "ow": "Vitor Martins | Marketing",
-          "due": "2026-06-08",
-          "start": "",
-          "created": "2026-06-05",
-          "updated": "2026-06-06",
-          "pri": "—",
-          "url": "https://app.clickup.com/t/86ahxgnz2",
           "team": "integralmedica",
           "is_promo": false,
           "days_stalled": 0,
@@ -113368,6 +113368,25 @@
     ],
     "integralmedicaafterclicks": [
       {
+        "id": "86ahxq2c6",
+        "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
+        "st": "a iniciar",
+        "folder": "Integralmedica",
+        "list": "Integralmédica - GESTÃO",
+        "ow": "Vitor Martins | Marketing",
+        "due": "2026-06-09",
+        "start": "",
+        "created": "2026-06-06",
+        "updated": "2026-06-06",
+        "pri": "—",
+        "url": "https://app.clickup.com/t/86ahxq2c6",
+        "team": "integralmedica",
+        "is_promo": false,
+        "days_stalled": 0,
+        "client_slug": "integralmedicaafterclicks",
+        "client_name": "Integralmedica AfterClicks"
+      },
+      {
         "id": "86ahx0h2x",
         "n": "[IntegralMedica] Plano de Mídias",
         "st": "em andamento",
@@ -113380,25 +113399,6 @@
         "updated": "2026-06-06",
         "pri": "—",
         "url": "https://app.clickup.com/t/86ahx0h2x",
-        "team": "integralmedica",
-        "is_promo": false,
-        "days_stalled": 0,
-        "client_slug": "integralmedicaafterclicks",
-        "client_name": "Integralmedica AfterClicks"
-      },
-      {
-        "id": "86ahxgnz2",
-        "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
-        "st": "em andamento",
-        "folder": "Integralmedica",
-        "list": "Integralmédica - GESTÃO",
-        "ow": "Vitor Martins | Marketing",
-        "due": "2026-06-08",
-        "start": "",
-        "created": "2026-06-05",
-        "updated": "2026-06-06",
-        "pri": "—",
-        "url": "https://app.clickup.com/t/86ahxgnz2",
         "team": "integralmedica",
         "is_promo": false,
         "days_stalled": 0,
@@ -175328,22 +175328,6 @@
     }
   ],
   "promos_by_client": {
-    "condor": [
-      {
-        "id": "86ahxf2k7",
-        "name": "Desconto Progressivo 6.6 - 2un 10% - Condor Meli",
-        "tipo": "Desconto Progressivo 6.6 - 2un 10%",
-        "canal": "Condor Meli",
-        "client": "Condor",
-        "client_slug": "condor",
-        "am": "Rafaela Lopes",
-        "start": "",
-        "due": "2026-06-06",
-        "status": "planejada",
-        "st": "feito",
-        "url": "https://app.clickup.com/t/86ahxf2k7"
-      }
-    ],
     "integralmedicaafterclicks": [
       {
         "id": "86ah5e1e8",
@@ -175400,6 +175384,22 @@
         "status": "encerrada",
         "st": "a iniciar",
         "url": "https://app.clickup.com/t/86ah5dayd"
+      }
+    ],
+    "condor": [
+      {
+        "id": "86ahxf2k7",
+        "name": "Desconto Progressivo 6.6 - 2un 10% - Condor Meli",
+        "tipo": "Desconto Progressivo 6.6 - 2un 10%",
+        "canal": "Condor Meli",
+        "client": "Condor",
+        "client_slug": "condor",
+        "am": "Rafaela Lopes",
+        "start": "",
+        "due": "2026-06-06",
+        "status": "planejada",
+        "st": "feito",
+        "url": "https://app.clickup.com/t/86ahxf2k7"
       }
     ],
     "xroots": [
