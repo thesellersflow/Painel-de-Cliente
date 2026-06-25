@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T05:30:50.835063-03:00",
-  "updated_at": "2026-06-25T05:30:50.835063-03:00",
+  "generated_at": "2026-06-25T08:36:52.011210-03:00",
+  "updated_at": "2026-06-25T08:36:52.011210-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -157711,7 +157711,7 @@
         "pct_subindo": 53,
         "pct_caindo": 27
       },
-      "health": 32,
+      "health": 11,
       "promos": [
         {
           "id": "86agu0y8m",
@@ -158833,7 +158833,7 @@
         "pct_subindo": 42,
         "pct_caindo": 25
       },
-      "health": 31,
+      "health": 10,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -159848,7 +159848,7 @@
         "pct_subindo": 33,
         "pct_caindo": 22
       },
-      "health": 33,
+      "health": 12,
       "promos": [
         {
           "id": "86afc9em7",
@@ -160746,7 +160746,7 @@
         "pct_subindo": 30,
         "pct_caindo": 61
       },
-      "health": 37,
+      "health": 16,
       "promos": [
         {
           "id": "86ah6tvqc",
@@ -162676,7 +162676,7 @@
         "pct_subindo": 29,
         "pct_caindo": 36
       },
-      "health": 37,
+      "health": 15,
       "promos": [
         {
           "id": "86ahxgj6w",
@@ -163618,7 +163618,7 @@
         "pct_subindo": 21,
         "pct_caindo": 50
       },
-      "health": 38,
+      "health": 17,
       "promos": [],
       "promos_count": 0,
       "promos_ativas": 0
@@ -165493,7 +165493,7 @@
         "pct_subindo": 45,
         "pct_caindo": 32
       },
-      "health": 33,
+      "health": 12,
       "promos": [
         {
           "id": "86aj502zp",
@@ -166425,7 +166425,7 @@
         "pct_subindo": 21,
         "pct_caindo": 44
       },
-      "health": 41,
+      "health": 20,
       "promos": [
         {
           "id": "86ah5e1e8",
@@ -170173,9 +170173,371 @@
         "preco": "Igual"
       }
     },
-    "top_subindo": [],
+    "top_subindo": [
+      {
+        "key": "Integralmedica AfterClicks RD",
+        "canal": "RD",
+        "am": "Mario Magalhães",
+        "var": 1645.9
+      },
+      {
+        "key": "Nutrify BRG Netshoes",
+        "canal": "Netshoes",
+        "am": "Mario Magalhães",
+        "var": 749.1
+      },
+      {
+        "key": "Okoshi Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Karla Chiacchio",
+        "var": 602.9
+      },
+      {
+        "key": "Dogs Care Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Leticia Santos",
+        "var": 569.4
+      },
+      {
+        "key": "O3NT Amazon US",
+        "canal": "Amazon US",
+        "am": "Jackeline Fidêncio",
+        "var": 560.4
+      },
+      {
+        "key": "Leadership Market Amazon US",
+        "canal": "Amazon US",
+        "am": "Jackeline Fidêncio",
+        "var": 450.0
+      },
+      {
+        "key": "Darkness BRG Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Mario Magalhães",
+        "var": 355.0
+      },
+      {
+        "key": "Integralmedica BRG Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Mario Magalhães",
+        "var": 323.5
+      },
+      {
+        "key": "W Nutri Amazon Vendor",
+        "canal": "Amazon Vendor",
+        "am": "Amanda Reis",
+        "var": 316.2
+      },
+      {
+        "key": "Darkness BRG Magalu",
+        "canal": "Magalu",
+        "am": "Mario Magalhães",
+        "var": 295.8
+      },
+      {
+        "key": "Darkness AfterClicks RD",
+        "canal": "RD",
+        "am": "Mario Magalhães",
+        "var": 290.4
+      },
+      {
+        "key": "DUX Nutrition Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Karla Chiacchio",
+        "var": 288.1
+      },
+      {
+        "key": "Nutrify BRG Amazon BR",
+        "canal": "Amazon BR",
+        "am": "Mario Magalhães",
+        "var": 264.4
+      },
+      {
+        "key": "Integralmedica BRG Magalu",
+        "canal": "Magalu",
+        "am": "Mario Magalhães",
+        "var": 209.0
+      },
+      {
+        "key": "Itacorda Amazon US",
+        "canal": "Amazon US",
+        "am": "Leticia Santos",
+        "var": 208.8
+      },
+      {
+        "key": "Beauty Color Mercado Livre",
+        "canal": "Mercado Livre",
+        "am": "Karla Chiacchio",
+        "var": 171.3
+      },
+      {
+        "key": "Darkness BRG Mercado Livre",
+        "canal": "Mercado Livre",
+        "am": "Mario Magalhães",
+        "var": 169.1
+      },
+      {
+        "key": "Darkness AfterClicks Magalu",
+        "canal": "Magalu",
+        "am": "Mario Magalhães",
+        "var": 163.2
+      },
+      {
+        "key": "Keko Site US",
+        "canal": "Site US",
+        "am": "Amanda Reis",
+        "var": 143.2
+      },
+      {
+        "key": "Darkness AfterClicks Mercado Livre",
+        "canal": "Mercado Livre",
+        "am": "Mario Magalhães",
+        "var": 141.3
+      }
+    ],
     "top_caindo": [],
-    "ranking_am": [],
+    "ranking_am": [
+      {
+        "am": "Amanda Reis",
+        "rank": 1,
+        "score": 8.3,
+        "score_final": 8.3,
+        "rating": "⭐⭐⭐⭐⭐",
+        "meta_pct": "86,08%",
+        "cresc": "10,0",
+        "carteira": "6,8",
+        "oport": "10,0",
+        "risco": "9,6",
+        "subindo": 19,
+        "estagnado": 4,
+        "caindo": 5
+      },
+      {
+        "am": "Amanda Reis",
+        "rank": 2,
+        "score": 8.3,
+        "score_final": 8.3,
+        "rating": "⭐⭐⭐⭐⭐",
+        "meta_pct": "8,61",
+        "cresc": "10,0",
+        "carteira": "6,8",
+        "oport": "10,0",
+        "risco": "9,6",
+        "subindo": 19,
+        "estagnado": 4,
+        "caindo": 5
+      },
+      {
+        "am": "Ana Hoehne",
+        "rank": 3,
+        "score": 8.1,
+        "score_final": 8.1,
+        "rating": "⭐⭐⭐⭐⭐",
+        "meta_pct": "87,44%",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "7,0",
+        "risco": "9,5",
+        "subindo": 11,
+        "estagnado": 7,
+        "caindo": 3
+      },
+      {
+        "am": "Ana Hoehne",
+        "rank": 4,
+        "score": 8.1,
+        "score_final": 8.1,
+        "rating": "⭐⭐⭐⭐⭐",
+        "meta_pct": "8,74",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "7,0",
+        "risco": "9,5",
+        "subindo": 11,
+        "estagnado": 7,
+        "caindo": 3
+      },
+      {
+        "am": "Mario Magalhães",
+        "rank": 5,
+        "score": 7.8,
+        "score_final": 7.8,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "85,83%",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "10,0",
+        "risco": "9,7",
+        "subindo": 26,
+        "estagnado": 17,
+        "caindo": 9
+      },
+      {
+        "am": "Mario Magalhães",
+        "rank": 6,
+        "score": 7.8,
+        "score_final": 7.8,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "8,58",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "10,0",
+        "risco": "9,7",
+        "subindo": 26,
+        "estagnado": 17,
+        "caindo": 9
+      },
+      {
+        "am": "Karla Chiacchio",
+        "rank": 7,
+        "score": 7.7,
+        "score_final": 7.7,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "74,57%",
+        "cresc": "10,0",
+        "carteira": "7,0",
+        "oport": "10,0",
+        "risco": "5,4",
+        "subindo": 16,
+        "estagnado": 3,
+        "caindo": 4
+      },
+      {
+        "am": "Rafaela Lopes",
+        "rank": 8,
+        "score": 7.7,
+        "score_final": 7.7,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "89,66%",
+        "cresc": "9,8",
+        "carteira": "5,3",
+        "oport": "1,0",
+        "risco": "9,9",
+        "subindo": 8,
+        "estagnado": 2,
+        "caindo": 5
+      },
+      {
+        "am": "Karla Chiacchio",
+        "rank": 9,
+        "score": 7.7,
+        "score_final": 7.7,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "7,46",
+        "cresc": "10,0",
+        "carteira": "7,0",
+        "oport": "10,0",
+        "risco": "5,4",
+        "subindo": 16,
+        "estagnado": 3,
+        "caindo": 4
+      },
+      {
+        "am": "Rafaela Lopes",
+        "rank": 10,
+        "score": 7.7,
+        "score_final": 7.7,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "8,97",
+        "cresc": "9,8",
+        "carteira": "5,3",
+        "oport": "1,0",
+        "risco": "9,9",
+        "subindo": 8,
+        "estagnado": 2,
+        "caindo": 5
+      },
+      {
+        "am": "Jackeline Fidêncio",
+        "rank": 11,
+        "score": 7.4,
+        "score_final": 7.4,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "78,93%",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "0,1",
+        "risco": "4,8",
+        "subindo": 7,
+        "estagnado": 3,
+        "caindo": 2
+      },
+      {
+        "am": "Jackeline Fidêncio",
+        "rank": 12,
+        "score": 7.4,
+        "score_final": 7.4,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "7,89",
+        "cresc": "10,0",
+        "carteira": "5,0",
+        "oport": "0,1",
+        "risco": "4,8",
+        "subindo": 7,
+        "estagnado": 3,
+        "caindo": 2
+      },
+      {
+        "am": "Giovanna Avelar",
+        "rank": 13,
+        "score": 7.3,
+        "score_final": 7.3,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "89,38%",
+        "cresc": "10,0",
+        "carteira": "3,9",
+        "oport": "0,6",
+        "risco": "9,9",
+        "subindo": 7,
+        "estagnado": 9,
+        "caindo": 2
+      },
+      {
+        "am": "Giovanna Avelar",
+        "rank": 14,
+        "score": 7.3,
+        "score_final": 7.3,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "8,94",
+        "cresc": "10,0",
+        "carteira": "3,9",
+        "oport": "0,6",
+        "risco": "9,9",
+        "subindo": 7,
+        "estagnado": 9,
+        "caindo": 2
+      },
+      {
+        "am": "Leticia Santos",
+        "rank": 15,
+        "score": 7.2,
+        "score_final": 7.2,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "92,69%",
+        "cresc": "10,0",
+        "carteira": "3,3",
+        "oport": "0,2",
+        "risco": "9,6",
+        "subindo": 4,
+        "estagnado": 4,
+        "caindo": 4
+      },
+      {
+        "am": "Leticia Santos",
+        "rank": 16,
+        "score": 7.2,
+        "score_final": 7.2,
+        "rating": "⭐⭐⭐⭐",
+        "meta_pct": "9,27",
+        "cresc": "10,0",
+        "carteira": "3,3",
+        "oport": "0,2",
+        "risco": "9,6",
+        "subindo": 4,
+        "estagnado": 4,
+        "caindo": 4
+      }
+    ],
     "sensibilidade": {
       "Cliente + Canal": {
         "semaforo": "Semáforo\nSensibilidade",
