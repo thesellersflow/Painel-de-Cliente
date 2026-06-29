@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T02:28:31.182511-03:00",
-  "updated_at": "2026-06-29T02:28:31.182511-03:00",
+  "generated_at": "2026-06-29T07:31:46.316388-03:00",
+  "updated_at": "2026-06-29T07:31:46.316388-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -29354,7 +29354,7 @@
           "st": "a iniciar",
           "folder": "Marketing",
           "list": "Gestão",
-          "ow": "Lorenzo Ferreira",
+          "ow": "Bruno Rodrigues",
           "due": "2026-07-03",
           "start": "",
           "created": "2026-06-27",
@@ -107251,7 +107251,7 @@
         "st": "a iniciar",
         "folder": "Marketing",
         "list": "Gestão",
-        "ow": "Lorenzo Ferreira",
+        "ow": "Bruno Rodrigues",
         "due": "2026-07-03",
         "start": "",
         "created": "2026-06-27",
@@ -154982,16 +154982,16 @@
         "st": "a iniciar",
         "folder": "Design",
         "list": "Design",
-        "ow": "Cristieli Mariano",
-        "due": "",
-        "start": "",
+        "ow": "Isabelle Alves",
+        "due": "2026-06-29",
+        "start": "2026-06-29",
         "created": "2026-06-27",
-        "updated": "2026-06-27",
+        "updated": "2026-06-29",
         "pri": "high",
         "url": "https://app.clickup.com/t/86aj8zch7",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 0
       },
       {
         "id": "86ahk5f40",
