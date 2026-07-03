@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T19:05:00.085102-03:00",
-  "updated_at": "2026-07-03T19:05:00.085102-03:00",
+  "generated_at": "2026-07-03T20:15:20.136048-03:00",
+  "updated_at": "2026-07-03T20:15:20.136048-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -7667,7 +7667,7 @@
           "st": "a iniciar",
           "folder": "Bioage",
           "list": "BioAge - Shopee",
-          "ow": "Isabelle Alves",
+          "ow": "Gabriel Endson",
           "due": "2026-07-15",
           "start": "2026-07-15",
           "created": "2026-07-03",
@@ -7686,7 +7686,7 @@
           "st": "a iniciar",
           "folder": "Bioage",
           "list": "BioAge - Shopee",
-          "ow": "Juliana",
+          "ow": "Gabriel Endson",
           "due": "2026-07-15",
           "start": "2026-07-13",
           "created": "2026-07-03",
@@ -35873,6 +35873,25 @@
       ],
       "tasks": [
         {
+          "id": "86ajcfkxu",
+          "n": "[IntegralMedica] Revisão | Calibragem e negativações",
+          "st": "a iniciar",
+          "folder": "Integralmedica",
+          "list": "Integralmédica - GESTÃO",
+          "ow": "Vitor Martins | Marketing",
+          "due": "2026-07-05",
+          "start": "",
+          "created": "2026-07-03",
+          "updated": "2026-07-03",
+          "pri": "—",
+          "url": "https://app.clickup.com/t/86ajcfkxu",
+          "team": "integralmedica",
+          "is_promo": false,
+          "days_stalled": 0,
+          "client_slug": "integralmedicabrg",
+          "client_name": "Integralmedica BRG"
+        },
+        {
           "id": "86ajau9c6",
           "n": "[IntegralMedica] Revisão | Calibragem e negativações",
           "st": "aguardando retorno",
@@ -35923,25 +35942,6 @@
           "updated": "2026-07-03",
           "pri": "—",
           "url": "https://app.clickup.com/t/86ajcf3m4",
-          "team": "integralmedica",
-          "is_promo": false,
-          "days_stalled": 0,
-          "client_slug": "integralmedicabrg",
-          "client_name": "Integralmedica BRG"
-        },
-        {
-          "id": "86ajb66b9",
-          "n": "[IntegralMedica] Revisão | Calibragem e negativações",
-          "st": "em andamento",
-          "folder": "Integralmedica",
-          "list": "Integralmédica - GESTÃO",
-          "ow": "Vitor Martins | Marketing",
-          "due": "2026-07-03",
-          "start": "",
-          "created": "2026-07-01",
-          "updated": "2026-07-03",
-          "pri": "—",
-          "url": "https://app.clickup.com/t/86ajb66b9",
           "team": "integralmedica",
           "is_promo": false,
           "days_stalled": 0,
@@ -85892,7 +85892,7 @@
         "st": "a iniciar",
         "folder": "Bioage",
         "list": "BioAge - Shopee",
-        "ow": "Isabelle Alves",
+        "ow": "Gabriel Endson",
         "due": "2026-07-15",
         "start": "2026-07-15",
         "created": "2026-07-03",
@@ -85911,7 +85911,7 @@
         "st": "a iniciar",
         "folder": "Bioage",
         "list": "BioAge - Shopee",
-        "ow": "Juliana",
+        "ow": "Gabriel Endson",
         "due": "2026-07-15",
         "start": "2026-07-13",
         "created": "2026-07-03",
@@ -112908,6 +112908,25 @@
     "integralmedicaafterclicks": [],
     "integralmedicabrg": [
       {
+        "id": "86ajcfkxu",
+        "n": "[IntegralMedica] Revisão | Calibragem e negativações",
+        "st": "a iniciar",
+        "folder": "Integralmedica",
+        "list": "Integralmédica - GESTÃO",
+        "ow": "Vitor Martins | Marketing",
+        "due": "2026-07-05",
+        "start": "",
+        "created": "2026-07-03",
+        "updated": "2026-07-03",
+        "pri": "—",
+        "url": "https://app.clickup.com/t/86ajcfkxu",
+        "team": "integralmedica",
+        "is_promo": false,
+        "days_stalled": 0,
+        "client_slug": "integralmedicabrg",
+        "client_name": "Integralmedica BRG"
+      },
+      {
         "id": "86ajau9c6",
         "n": "[IntegralMedica] Revisão | Calibragem e negativações",
         "st": "aguardando retorno",
@@ -112958,25 +112977,6 @@
         "updated": "2026-07-03",
         "pri": "—",
         "url": "https://app.clickup.com/t/86ajcf3m4",
-        "team": "integralmedica",
-        "is_promo": false,
-        "days_stalled": 0,
-        "client_slug": "integralmedicabrg",
-        "client_name": "Integralmedica BRG"
-      },
-      {
-        "id": "86ajb66b9",
-        "n": "[IntegralMedica] Revisão | Calibragem e negativações",
-        "st": "em andamento",
-        "folder": "Integralmedica",
-        "list": "Integralmédica - GESTÃO",
-        "ow": "Vitor Martins | Marketing",
-        "due": "2026-07-03",
-        "start": "",
-        "created": "2026-07-01",
-        "updated": "2026-07-03",
-        "pri": "—",
-        "url": "https://app.clickup.com/t/86ajb66b9",
         "team": "integralmedica",
         "is_promo": false,
         "days_stalled": 0,
@@ -165373,7 +165373,7 @@
       "standby_clients": 0,
       "total_tasks": 320,
       "open_tasks_total": 76,
-      "overdue": 31,
+      "overdue": 30,
       "no_due": 38,
       "no_due_tasks": 38,
       "stale_30": 53,
@@ -166052,7 +166052,7 @@
           "status": "Ativo",
           "tasks": 293,
           "open": 73,
-          "overdue": 30,
+          "overdue": 29,
           "stale": 50,
           "score": 100.0
         },
@@ -166134,7 +166134,7 @@
           "status": "Ativo",
           "tasks": 293,
           "open": 73,
-          "overdue": 30,
+          "overdue": 29,
           "stale": 50,
           "score": 100.0
         },
@@ -166186,7 +166186,7 @@
           "status": "Ativo",
           "tasks": 293,
           "open": 73,
-          "overdue": 30,
+          "overdue": 29,
           "stale": 50,
           "score": 100.0
         }
@@ -174346,6 +174346,22 @@
     }
   ],
   "promos_by_client": {
+    "integralmedicabrg": [
+      {
+        "id": "86ah5dayd",
+        "name": "10% CUPOM MELI <> BRG",
+        "tipo": "BRG",
+        "canal": "10% CUPOM MELI",
+        "client": "Integralmedica BRG",
+        "client_slug": "integralmedicabrg",
+        "am": "Mario Magalhães",
+        "start": "2026-05-01",
+        "due": "2026-05-31",
+        "status": "encerrada",
+        "st": "a iniciar",
+        "url": "https://app.clickup.com/t/86ah5dayd"
+      }
+    ],
     "plumasul": [
       {
         "id": "86afc9mkb",
@@ -174374,22 +174390,6 @@
         "status": "encerrada",
         "st": "to do",
         "url": "https://app.clickup.com/t/86afc9em7"
-      }
-    ],
-    "integralmedicabrg": [
-      {
-        "id": "86ah5dayd",
-        "name": "10% CUPOM MELI <> BRG",
-        "tipo": "BRG",
-        "canal": "10% CUPOM MELI",
-        "client": "Integralmedica BRG",
-        "client_slug": "integralmedicabrg",
-        "am": "Mario Magalhães",
-        "start": "2026-05-01",
-        "due": "2026-05-31",
-        "status": "encerrada",
-        "st": "a iniciar",
-        "url": "https://app.clickup.com/t/86ah5dayd"
       }
     ],
     "plie": [
