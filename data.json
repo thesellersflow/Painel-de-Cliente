@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T19:17:24.258107-03:00",
-  "updated_at": "2026-08-05T19:17:24.258107-03:00",
+  "generated_at": "2026-08-05T20:55:44.660830-03:00",
+  "updated_at": "2026-08-05T20:55:44.660830-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -45411,7 +45411,7 @@
         {
           "id": "86ajwfn3q",
           "n": "Redimensionar e Renomear imagens",
-          "st": "em andamento",
+          "st": "aguardando aprovação",
           "folder": "Luxer",
           "list": "Luxer - Amazon US 3P",
           "ow": "Igor de Oliveira",
@@ -123031,7 +123031,7 @@
       {
         "id": "86ajwfn3q",
         "n": "Redimensionar e Renomear imagens",
-        "st": "em andamento",
+        "st": "aguardando aprovação",
         "folder": "Luxer",
         "list": "Luxer - Amazon US 3P",
         "ow": "Igor de Oliveira",
