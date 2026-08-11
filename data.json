@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T07:45:57.545139-03:00",
-  "updated_at": "2026-08-11T07:45:57.545139-03:00",
+  "generated_at": "2026-08-11T08:41:17.795519-03:00",
+  "updated_at": "2026-08-11T08:41:17.795519-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -9512,12 +9512,12 @@
           "due": "2026-08-11",
           "start": "2026-08-10",
           "created": "2026-08-10",
-          "updated": "2026-08-10",
+          "updated": "2026-08-11",
           "pri": "high",
           "url": "https://app.clickup.com/t/86ajycmax",
           "team": "black",
           "is_promo": false,
-          "days_stalled": 1,
+          "days_stalled": 0,
           "client_slug": "blackskull",
           "client_name": "Black Skull"
         },
@@ -88100,12 +88100,12 @@
         "due": "2026-08-11",
         "start": "2026-08-10",
         "created": "2026-08-10",
-        "updated": "2026-08-10",
+        "updated": "2026-08-11",
         "pri": "high",
         "url": "https://app.clickup.com/t/86ajycmax",
         "team": "black",
         "is_promo": false,
-        "days_stalled": 1,
+        "days_stalled": 0,
         "client_slug": "blackskull",
         "client_name": "Black Skull"
       },
