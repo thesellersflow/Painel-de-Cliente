@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T12:55:54.934225-03:00",
-  "updated_at": "2026-08-12T12:55:54.934225-03:00",
+  "generated_at": "2026-08-12T13:52:48.438527-03:00",
+  "updated_at": "2026-08-12T13:52:48.438527-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -18093,6 +18093,25 @@
       ],
       "tasks": [
         {
+          "id": "86ajycyh7",
+          "n": "Otimização de Imagens de Listing [Revisão]",
+          "st": "em andamento",
+          "folder": "Dentalclean",
+          "list": "Dentalclean - GESTÃO",
+          "ow": "Matheus Marcello Souza Meira",
+          "due": "2026-08-12",
+          "start": "2026-08-12",
+          "created": "2026-08-10",
+          "updated": "2026-08-12",
+          "pri": "—",
+          "url": "https://app.clickup.com/t/86ajycyh7",
+          "team": "dentalclean",
+          "is_promo": false,
+          "days_stalled": 0,
+          "client_slug": "dentalclean",
+          "client_name": "DentalClean"
+        },
+        {
           "id": "86ajycyav",
           "n": "Otimização de Imagens de Listing [Criação]",
           "st": "em andamento",
@@ -18127,25 +18146,6 @@
           "team": "dentalclean",
           "is_promo": false,
           "days_stalled": 1,
-          "client_slug": "dentalclean",
-          "client_name": "DentalClean"
-        },
-        {
-          "id": "86ajycyh7",
-          "n": "Otimização de Imagens de Listing [Revisão]",
-          "st": "a iniciar",
-          "folder": "Dentalclean",
-          "list": "Dentalclean - GESTÃO",
-          "ow": "Matheus Marcello Souza Meira",
-          "due": "2026-08-12",
-          "start": "2026-08-12",
-          "created": "2026-08-10",
-          "updated": "2026-08-10",
-          "pri": "—",
-          "url": "https://app.clickup.com/t/86ajycyh7",
-          "team": "dentalclean",
-          "is_promo": false,
-          "days_stalled": 2,
           "client_slug": "dentalclean",
           "client_name": "DentalClean"
         },
@@ -96548,6 +96548,25 @@
     "darknessbrg": [],
     "dentalclean": [
       {
+        "id": "86ajycyh7",
+        "n": "Otimização de Imagens de Listing [Revisão]",
+        "st": "em andamento",
+        "folder": "Dentalclean",
+        "list": "Dentalclean - GESTÃO",
+        "ow": "Matheus Marcello Souza Meira",
+        "due": "2026-08-12",
+        "start": "2026-08-12",
+        "created": "2026-08-10",
+        "updated": "2026-08-12",
+        "pri": "—",
+        "url": "https://app.clickup.com/t/86ajycyh7",
+        "team": "dentalclean",
+        "is_promo": false,
+        "days_stalled": 0,
+        "client_slug": "dentalclean",
+        "client_name": "DentalClean"
+      },
+      {
         "id": "86ajycyav",
         "n": "Otimização de Imagens de Listing [Criação]",
         "st": "em andamento",
@@ -96582,25 +96601,6 @@
         "team": "dentalclean",
         "is_promo": false,
         "days_stalled": 1,
-        "client_slug": "dentalclean",
-        "client_name": "DentalClean"
-      },
-      {
-        "id": "86ajycyh7",
-        "n": "Otimização de Imagens de Listing [Revisão]",
-        "st": "a iniciar",
-        "folder": "Dentalclean",
-        "list": "Dentalclean - GESTÃO",
-        "ow": "Matheus Marcello Souza Meira",
-        "due": "2026-08-12",
-        "start": "2026-08-12",
-        "created": "2026-08-10",
-        "updated": "2026-08-10",
-        "pri": "—",
-        "url": "https://app.clickup.com/t/86ajycyh7",
-        "team": "dentalclean",
-        "is_promo": false,
-        "days_stalled": 2,
         "client_slug": "dentalclean",
         "client_name": "DentalClean"
       },
@@ -175290,22 +175290,6 @@
     }
   ],
   "promos_by_client": {
-    "integralmedicaafterclicks": [
-      {
-        "id": "86ah5dayd",
-        "name": "10% CUPOM MELI <> BRG",
-        "tipo": "BRG",
-        "canal": "10% CUPOM MELI",
-        "client": "Integralmedica AfterClicks",
-        "client_slug": "integralmedicaafterclicks",
-        "am": "Mario Magalhães",
-        "start": "2026-05-01",
-        "due": "2026-05-31",
-        "status": "encerrada",
-        "st": "a iniciar",
-        "url": "https://app.clickup.com/t/86ah5dayd"
-      }
-    ],
     "4well": [
       {
         "id": "86ajxqgn7",
@@ -175320,6 +175304,22 @@
         "status": "encerrada",
         "st": "a iniciar",
         "url": "https://app.clickup.com/t/86ajxqgn7"
+      }
+    ],
+    "integralmedicaafterclicks": [
+      {
+        "id": "86ah5dayd",
+        "name": "10% CUPOM MELI <> BRG",
+        "tipo": "BRG",
+        "canal": "10% CUPOM MELI",
+        "client": "Integralmedica AfterClicks",
+        "client_slug": "integralmedicaafterclicks",
+        "am": "Mario Magalhães",
+        "start": "2026-05-01",
+        "due": "2026-05-31",
+        "status": "encerrada",
+        "st": "a iniciar",
+        "url": "https://app.clickup.com/t/86ah5dayd"
       }
     ],
     "condor": [
