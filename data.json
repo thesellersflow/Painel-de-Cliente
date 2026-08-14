@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:20:58.830349-03:00",
-  "updated_at": "2026-08-14T18:20:58.830349-03:00",
+  "generated_at": "2026-08-14T19:17:52.728853-03:00",
+  "updated_at": "2026-08-14T19:17:52.728853-03:00",
   "clients": {
     "ahoaloe": {
       "name": "AhoAloe",
@@ -10526,7 +10526,7 @@
         {
           "id": "86ajqey2q",
           "n": "[Email Marketing Ecomm] Coffee for Every Moment",
-          "st": "em andamento",
+          "st": "feito",
           "folder": "Bom Dia Brands",
           "list": "Bom Dia Brands - GESTÃO",
           "ow": "Igor de Oliveira",
@@ -16664,7 +16664,7 @@
         {
           "id": "86aj73ad5",
           "n": "Submeter Imagens P2",
-          "st": "em andamento",
+          "st": "aguardando refletir",
           "folder": "Condor",
           "list": "Condor - Amazon 1P",
           "ow": "Fernanda Monique Oliveira Cavallaro",
@@ -32775,18 +32775,18 @@
       ],
       "tasks": [
         {
-          "id": "86ak0kb72",
+          "id": "86ak14k96",
           "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
-          "st": "em andamento",
+          "st": "a iniciar",
           "folder": "Integralmedica",
           "list": "Integralmédica - GESTÃO",
           "ow": "Vitor Martins | Marketing",
-          "due": "2026-08-14",
+          "due": "2026-08-18",
           "start": "",
-          "created": "2026-08-13",
+          "created": "2026-08-14",
           "updated": "2026-08-14",
           "pri": "—",
-          "url": "https://app.clickup.com/t/86ak0kb72",
+          "url": "https://app.clickup.com/t/86ak14k96",
           "team": "integralmedica",
           "is_promo": false,
           "days_stalled": 0,
@@ -76388,25 +76388,6 @@
       "sc": [],
       "tasks": [
         {
-          "id": "86ajyd1rr",
-          "n": "Imagens de listing | Inciclo Meli [Criação]",
-          "st": "feito",
-          "folder": "Inciclo",
-          "list": "Inciclo - Meli",
-          "ow": "Juliana",
-          "due": "2026-08-14",
-          "start": "2026-08-13",
-          "created": "2026-08-10",
-          "updated": "2026-08-14",
-          "pri": "high",
-          "url": "https://app.clickup.com/t/86ajyd1rr",
-          "team": "inciclo",
-          "is_promo": false,
-          "days_stalled": 0,
-          "client_slug": "inciclo",
-          "client_name": "Inciclo"
-        },
-        {
           "id": "86ajyd2cd",
           "n": "Imagens de listing | Inciclo Meli [Revisão]",
           "st": "em andamento",
@@ -76419,6 +76400,25 @@
           "updated": "2026-08-14",
           "pri": "high",
           "url": "https://app.clickup.com/t/86ajyd2cd",
+          "team": "inciclo",
+          "is_promo": false,
+          "days_stalled": 0,
+          "client_slug": "inciclo",
+          "client_name": "Inciclo"
+        },
+        {
+          "id": "86ajyd1rr",
+          "n": "Imagens de listing | Inciclo Meli [Criação]",
+          "st": "feito",
+          "folder": "Inciclo",
+          "list": "Inciclo - Meli",
+          "ow": "Juliana",
+          "due": "2026-08-14",
+          "start": "2026-08-13",
+          "created": "2026-08-10",
+          "updated": "2026-08-14",
+          "pri": "high",
+          "url": "https://app.clickup.com/t/86ajyd1rr",
           "team": "inciclo",
           "is_promo": false,
           "days_stalled": 0,
@@ -89558,7 +89558,7 @@
       {
         "id": "86ajqey2q",
         "n": "[Email Marketing Ecomm] Coffee for Every Moment",
-        "st": "em andamento",
+        "st": "feito",
         "folder": "Bom Dia Brands",
         "list": "Bom Dia Brands - GESTÃO",
         "ow": "Igor de Oliveira",
@@ -95443,7 +95443,7 @@
       {
         "id": "86aj73ad5",
         "n": "Submeter Imagens P2",
-        "st": "em andamento",
+        "st": "aguardando refletir",
         "folder": "Condor",
         "list": "Condor - Amazon 1P",
         "ow": "Fernanda Monique Oliveira Cavallaro",
@@ -110664,18 +110664,18 @@
     "integralmedicaafterclicks": [],
     "integralmedicabrg": [
       {
-        "id": "86ak0kb72",
+        "id": "86ak14k96",
         "n": "[IntegralMedica] Controle de Orçamento e Campanhas",
-        "st": "em andamento",
+        "st": "a iniciar",
         "folder": "Integralmedica",
         "list": "Integralmédica - GESTÃO",
         "ow": "Vitor Martins | Marketing",
-        "due": "2026-08-14",
+        "due": "2026-08-18",
         "start": "",
-        "created": "2026-08-13",
+        "created": "2026-08-14",
         "updated": "2026-08-14",
         "pri": "—",
-        "url": "https://app.clickup.com/t/86ak0kb72",
+        "url": "https://app.clickup.com/t/86ak14k96",
         "team": "integralmedica",
         "is_promo": false,
         "days_stalled": 0,
@@ -152823,25 +152823,6 @@
     ],
     "inciclo": [
       {
-        "id": "86ajyd1rr",
-        "n": "Imagens de listing | Inciclo Meli [Criação]",
-        "st": "feito",
-        "folder": "Inciclo",
-        "list": "Inciclo - Meli",
-        "ow": "Juliana",
-        "due": "2026-08-14",
-        "start": "2026-08-13",
-        "created": "2026-08-10",
-        "updated": "2026-08-14",
-        "pri": "high",
-        "url": "https://app.clickup.com/t/86ajyd1rr",
-        "team": "inciclo",
-        "is_promo": false,
-        "days_stalled": 0,
-        "client_slug": "inciclo",
-        "client_name": "Inciclo"
-      },
-      {
         "id": "86ajyd2cd",
         "n": "Imagens de listing | Inciclo Meli [Revisão]",
         "st": "em andamento",
@@ -152854,6 +152835,25 @@
         "updated": "2026-08-14",
         "pri": "high",
         "url": "https://app.clickup.com/t/86ajyd2cd",
+        "team": "inciclo",
+        "is_promo": false,
+        "days_stalled": 0,
+        "client_slug": "inciclo",
+        "client_name": "Inciclo"
+      },
+      {
+        "id": "86ajyd1rr",
+        "n": "Imagens de listing | Inciclo Meli [Criação]",
+        "st": "feito",
+        "folder": "Inciclo",
+        "list": "Inciclo - Meli",
+        "ow": "Juliana",
+        "due": "2026-08-14",
+        "start": "2026-08-13",
+        "created": "2026-08-10",
+        "updated": "2026-08-14",
+        "pri": "high",
+        "url": "https://app.clickup.com/t/86ajyd1rr",
         "team": "inciclo",
         "is_promo": false,
         "days_stalled": 0,
@@ -162087,8 +162087,8 @@
       "active_clients": 6,
       "standby_clients": 0,
       "total_tasks": 225,
-      "open_tasks_total": 120,
-      "overdue": 53,
+      "open_tasks_total": 119,
+      "overdue": 52,
       "no_due": 55,
       "no_due_tasks": 55,
       "stale_30": 48,
@@ -162803,8 +162803,8 @@
           "name": "Bom Dia Brands",
           "status": "Ativo",
           "tasks": 34,
-          "open": 15,
-          "overdue": 13,
+          "open": 14,
+          "overdue": 12,
           "stale": 0,
           "score": 20.0
         },
@@ -162865,8 +162865,8 @@
           "name": "Bom Dia Brands",
           "status": "Ativo",
           "tasks": 34,
-          "open": 15,
-          "overdue": 13,
+          "open": 14,
+          "overdue": 12,
           "stale": 0,
           "score": 20.0
         },
@@ -162917,8 +162917,8 @@
           "name": "Bom Dia Brands",
           "status": "Ativo",
           "tasks": 34,
-          "open": 15,
-          "overdue": 13,
+          "open": 14,
+          "overdue": 12,
           "stale": 0,
           "score": 20.0
         },
@@ -166503,7 +166503,7 @@
       "standby_clients": 0,
       "total_tasks": 318,
       "open_tasks_total": 111,
-      "overdue": 28,
+      "overdue": 27,
       "no_due": 73,
       "no_due_tasks": 73,
       "stale_30": 75,
@@ -167182,7 +167182,7 @@
           "status": "Ativo",
           "tasks": 315,
           "open": 110,
-          "overdue": 28,
+          "overdue": 27,
           "stale": 75,
           "score": 100.0
         },
@@ -167264,7 +167264,7 @@
           "status": "Ativo",
           "tasks": 315,
           "open": 110,
-          "overdue": 28,
+          "overdue": 27,
           "stale": 75,
           "score": 100.0
         },
@@ -167316,7 +167316,7 @@
           "status": "Ativo",
           "tasks": 315,
           "open": 110,
-          "overdue": 28,
+          "overdue": 27,
           "stale": 75,
           "score": 100.0
         }
@@ -175475,20 +175475,20 @@
     }
   ],
   "promos_by_client": {
-    "iszi": [
+    "integralmedicabrg": [
       {
-        "id": "86ajgkewp",
-        "name": "[ISZI] DEAL AMAZON",
-        "tipo": "[ISZI] DEAL AMAZON",
-        "canal": "[ISZI] DEAL AMAZON",
-        "client": "Iszi",
-        "client_slug": "iszi",
-        "am": "Ana Hoehne",
-        "start": "2026-07-14",
-        "due": "2026-07-27",
+        "id": "86ah5dayd",
+        "name": "10% CUPOM MELI <> BRG",
+        "tipo": "BRG",
+        "canal": "10% CUPOM MELI",
+        "client": "Integralmedica BRG",
+        "client_slug": "integralmedicabrg",
+        "am": "Mario Magalhães",
+        "start": "2026-05-01",
+        "due": "2026-05-31",
         "status": "encerrada",
         "st": "a iniciar",
-        "url": "https://app.clickup.com/t/86ajgkewp"
+        "url": "https://app.clickup.com/t/86ah5dayd"
       }
     ],
     "condor": [
@@ -175505,6 +175505,22 @@
         "status": "encerrada",
         "st": "feito",
         "url": "https://app.clickup.com/t/86ahxf2k7"
+      }
+    ],
+    "iszi": [
+      {
+        "id": "86ajgkewp",
+        "name": "[ISZI] DEAL AMAZON",
+        "tipo": "[ISZI] DEAL AMAZON",
+        "canal": "[ISZI] DEAL AMAZON",
+        "client": "Iszi",
+        "client_slug": "iszi",
+        "am": "Ana Hoehne",
+        "start": "2026-07-14",
+        "due": "2026-07-27",
+        "status": "encerrada",
+        "st": "a iniciar",
+        "url": "https://app.clickup.com/t/86ajgkewp"
       }
     ],
     "mqhair": [
@@ -175537,22 +175553,6 @@
         "status": "encerrada",
         "st": "feito",
         "url": "https://app.clickup.com/t/86ahxgj6w"
-      }
-    ],
-    "integralmedicabrg": [
-      {
-        "id": "86ah5dayd",
-        "name": "10% CUPOM MELI <> BRG",
-        "tipo": "BRG",
-        "canal": "10% CUPOM MELI",
-        "client": "Integralmedica BRG",
-        "client_slug": "integralmedicabrg",
-        "am": "Mario Magalhães",
-        "start": "2026-05-01",
-        "due": "2026-05-31",
-        "status": "encerrada",
-        "st": "a iniciar",
-        "url": "https://app.clickup.com/t/86ah5dayd"
       }
     ],
     "4well": [
