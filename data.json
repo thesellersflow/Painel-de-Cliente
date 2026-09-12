@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:36:49.670964-03:00",
-  "updated_at": "2026-09-12T14:36:49.670964-03:00",
+  "generated_at": "2026-09-12T16:58:54.004752-03:00",
+  "updated_at": "2026-09-12T16:58:54.004752-03:00",
   "clients": {},
   "tasks": {},
   "tasks_by_team": {
@@ -266,7 +266,7 @@
         "st": "em andamento",
         "folder": "Design",
         "list": "Design",
-        "ow": "Matheus Marcello Souza Meira",
+        "ow": "Soanen Machado",
         "due": "2026-08-06",
         "start": "2026-08-06",
         "created": "2026-08-06",
