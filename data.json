@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T20:49:53.438217-03:00",
-  "updated_at": "2026-10-09T20:49:53.438217-03:00",
+  "generated_at": "2026-10-10T00:41:54.591957-03:00",
+  "updated_at": "2026-10-10T00:41:54.591957-03:00",
   "clients": {},
   "tasks": {},
   "tasks_by_team": {
@@ -20,7 +20,7 @@
         "url": "https://app.clickup.com/t/86aktgv1h",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktgv0n",
@@ -37,7 +37,7 @@
         "url": "https://app.clickup.com/t/86aktgv0n",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktguzn",
@@ -54,7 +54,7 @@
         "url": "https://app.clickup.com/t/86aktguzn",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akp16wy",
@@ -71,7 +71,7 @@
         "url": "https://app.clickup.com/t/86akp16wy",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akkcx9m",
@@ -88,7 +88,7 @@
         "url": "https://app.clickup.com/t/86akkcx9m",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akkcx2d",
@@ -105,7 +105,7 @@
         "url": "https://app.clickup.com/t/86akkcx2d",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktguz0",
@@ -122,7 +122,7 @@
         "url": "https://app.clickup.com/t/86aktguz0",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktrqt7",
@@ -139,7 +139,7 @@
         "url": "https://app.clickup.com/t/86aktrqt7",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktrqqf",
@@ -156,7 +156,7 @@
         "url": "https://app.clickup.com/t/86aktrqqf",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86ajgvhnf",
@@ -173,7 +173,7 @@
         "url": "https://app.clickup.com/t/86ajgvhnf",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktguy2",
@@ -190,7 +190,7 @@
         "url": "https://app.clickup.com/t/86aktguy2",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akkcx04",
@@ -207,7 +207,7 @@
         "url": "https://app.clickup.com/t/86akkcx04",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86ak8u5p3",
@@ -224,7 +224,7 @@
         "url": "https://app.clickup.com/t/86ak8u5p3",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86aktguwu",
@@ -241,7 +241,7 @@
         "url": "https://app.clickup.com/t/86aktguwu",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86akrv16n",
@@ -258,7 +258,7 @@
         "url": "https://app.clickup.com/t/86akrv16n",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86aktguvr",
@@ -275,7 +275,7 @@
         "url": "https://app.clickup.com/t/86aktguvr",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86aktrm88",
@@ -292,7 +292,7 @@
         "url": "https://app.clickup.com/t/86aktrm88",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86akbjkz7",
@@ -309,7 +309,7 @@
         "url": "https://app.clickup.com/t/86akbjkz7",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86ajgvrv8",
@@ -326,7 +326,7 @@
         "url": "https://app.clickup.com/t/86ajgvrv8",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86ajgvr46",
@@ -343,7 +343,7 @@
         "url": "https://app.clickup.com/t/86ajgvr46",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86ajgvnek",
@@ -360,7 +360,7 @@
         "url": "https://app.clickup.com/t/86ajgvnek",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86ajgvn89",
@@ -377,7 +377,7 @@
         "url": "https://app.clickup.com/t/86ajgvn89",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86akkcwxp",
@@ -394,7 +394,7 @@
         "url": "https://app.clickup.com/t/86akkcwxp",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86akk469k",
@@ -411,7 +411,7 @@
         "url": "https://app.clickup.com/t/86akk469k",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86aj5ba3h",
@@ -428,7 +428,7 @@
         "url": "https://app.clickup.com/t/86aj5ba3h",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86aj5ba1q",
@@ -445,7 +445,7 @@
         "url": "https://app.clickup.com/t/86aj5ba1q",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86akm6z5j",
@@ -462,7 +462,7 @@
         "url": "https://app.clickup.com/t/86akm6z5j",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86akm6yum",
@@ -479,7 +479,7 @@
         "url": "https://app.clickup.com/t/86akm6yum",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86aj5b9vg",
@@ -496,7 +496,7 @@
         "url": "https://app.clickup.com/t/86aj5b9vg",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aj5b9pr",
@@ -513,7 +513,7 @@
         "url": "https://app.clickup.com/t/86aj5b9pr",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aj5b9xt",
@@ -530,7 +530,7 @@
         "url": "https://app.clickup.com/t/86aj5b9xt",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aj5b9z0",
@@ -547,7 +547,7 @@
         "url": "https://app.clickup.com/t/86aj5b9z0",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aj5b9wj",
@@ -564,7 +564,7 @@
         "url": "https://app.clickup.com/t/86aj5b9wj",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akp16re",
@@ -581,7 +581,7 @@
         "url": "https://app.clickup.com/t/86akp16re",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akkcwug",
@@ -598,7 +598,7 @@
         "url": "https://app.clickup.com/t/86akkcwug",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akqep8x",
@@ -615,7 +615,7 @@
         "url": "https://app.clickup.com/t/86akqep8x",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aha6krq",
@@ -632,7 +632,7 @@
         "url": "https://app.clickup.com/t/86aha6krq",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akbjmn6",
@@ -649,7 +649,7 @@
         "url": "https://app.clickup.com/t/86akbjmn6",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akm6yzd",
@@ -666,7 +666,7 @@
         "url": "https://app.clickup.com/t/86akm6yzd",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86akqevag",
@@ -683,7 +683,7 @@
         "url": "https://app.clickup.com/t/86akqevag",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aknvayb",
@@ -700,7 +700,7 @@
         "url": "https://app.clickup.com/t/86aknvayb",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akkcwqp",
@@ -717,7 +717,7 @@
         "url": "https://app.clickup.com/t/86akkcwqp",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86ajmr2ma",
@@ -734,7 +734,7 @@
         "url": "https://app.clickup.com/t/86ajmr2ma",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86ajmr2j0",
@@ -751,7 +751,7 @@
         "url": "https://app.clickup.com/t/86ajmr2j0",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86aha9xca",
@@ -768,7 +768,7 @@
         "url": "https://app.clickup.com/t/86aha9xca",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86aha9uqy",
@@ -785,7 +785,7 @@
         "url": "https://app.clickup.com/t/86aha9uqy",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86ah7tknp",
@@ -802,7 +802,7 @@
         "url": "https://app.clickup.com/t/86ah7tknp",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akbjc88",
@@ -819,7 +819,7 @@
         "url": "https://app.clickup.com/t/86akbjc88",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akpbuwy",
@@ -836,7 +836,7 @@
         "url": "https://app.clickup.com/t/86akpbuwy",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akr3xrm",
@@ -853,7 +853,7 @@
         "url": "https://app.clickup.com/t/86akr3xrm",
         "team": "listing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       }
     ],
     "logistics": [
@@ -872,7 +872,7 @@
         "url": "https://app.clickup.com/t/86aku47zt",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aku47vk",
@@ -889,7 +889,7 @@
         "url": "https://app.clickup.com/t/86aku47vk",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86aktjnje",
@@ -906,7 +906,7 @@
         "url": "https://app.clickup.com/t/86aktjnje",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aktjnht",
@@ -923,7 +923,7 @@
         "url": "https://app.clickup.com/t/86aktjnht",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aktjnjc",
@@ -940,7 +940,7 @@
         "url": "https://app.clickup.com/t/86aktjnjc",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aktjnd1",
@@ -957,7 +957,7 @@
         "url": "https://app.clickup.com/t/86aktjnd1",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 3
+        "days_stalled": 4
       },
       {
         "id": "86aktaf24",
@@ -974,7 +974,7 @@
         "url": "https://app.clickup.com/t/86aktaf24",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt9rjc",
@@ -991,7 +991,7 @@
         "url": "https://app.clickup.com/t/86akt9rjc",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akbgnzh",
@@ -1008,7 +1008,7 @@
         "url": "https://app.clickup.com/t/86akbgnzh",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86ak4ew9h",
@@ -1025,7 +1025,7 @@
         "url": "https://app.clickup.com/t/86ak4ew9h",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86ajxdf25",
@@ -1042,7 +1042,7 @@
         "url": "https://app.clickup.com/t/86ajxdf25",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86ak4f2t1",
@@ -1059,7 +1059,7 @@
         "url": "https://app.clickup.com/t/86ak4f2t1",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86ak7a1wk",
@@ -1076,7 +1076,7 @@
         "url": "https://app.clickup.com/t/86ak7a1wk",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86akgke0v",
@@ -1093,7 +1093,7 @@
         "url": "https://app.clickup.com/t/86akgke0v",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86akrjzyc",
@@ -1110,7 +1110,7 @@
         "url": "https://app.clickup.com/t/86akrjzyc",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86aevcw6c",
@@ -1127,7 +1127,7 @@
         "url": "https://app.clickup.com/t/86aevcw6c",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aevcwtb",
@@ -1144,7 +1144,7 @@
         "url": "https://app.clickup.com/t/86aevcwtb",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aevc166",
@@ -1161,7 +1161,7 @@
         "url": "https://app.clickup.com/t/86aevc166",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aeve2jt",
@@ -1178,7 +1178,7 @@
         "url": "https://app.clickup.com/t/86aeve2jt",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aeve7cp",
@@ -1195,7 +1195,7 @@
         "url": "https://app.clickup.com/t/86aeve7cp",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86agcvt15",
@@ -1212,7 +1212,7 @@
         "url": "https://app.clickup.com/t/86agcvt15",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aeve8j6",
@@ -1229,7 +1229,7 @@
         "url": "https://app.clickup.com/t/86aeve8j6",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86agcvnmb",
@@ -1246,7 +1246,7 @@
         "url": "https://app.clickup.com/t/86agcvnmb",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akra33g",
@@ -1263,7 +1263,7 @@
         "url": "https://app.clickup.com/t/86akra33g",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajyme9w",
@@ -1280,7 +1280,7 @@
         "url": "https://app.clickup.com/t/86ajyme9w",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ak7r70x",
@@ -1297,7 +1297,7 @@
         "url": "https://app.clickup.com/t/86ak7r70x",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akjyyxt",
@@ -1314,7 +1314,7 @@
         "url": "https://app.clickup.com/t/86akjyyxt",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akjygxy",
@@ -1331,7 +1331,7 @@
         "url": "https://app.clickup.com/t/86akjygxy",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr9zvn",
@@ -1348,7 +1348,7 @@
         "url": "https://app.clickup.com/t/86akr9zvn",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aj6pc8x",
@@ -1365,7 +1365,7 @@
         "url": "https://app.clickup.com/t/86aj6pc8x",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86age8azy",
@@ -1382,7 +1382,7 @@
         "url": "https://app.clickup.com/t/86age8azy",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr9ywy",
@@ -1399,7 +1399,7 @@
         "url": "https://app.clickup.com/t/86akr9ywy",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ak7rq0b",
@@ -1416,7 +1416,7 @@
         "url": "https://app.clickup.com/t/86ak7rq0b",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ahavrxq",
@@ -1433,7 +1433,7 @@
         "url": "https://app.clickup.com/t/86ahavrxq",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr9xxz",
@@ -1450,7 +1450,7 @@
         "url": "https://app.clickup.com/t/86akr9xxz",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr9yah",
@@ -1467,7 +1467,7 @@
         "url": "https://app.clickup.com/t/86akr9yah",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr9xgf",
@@ -1484,7 +1484,7 @@
         "url": "https://app.clickup.com/t/86akr9xgf",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akkqhu9",
@@ -1501,7 +1501,7 @@
         "url": "https://app.clickup.com/t/86akkqhu9",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akfy373",
@@ -1518,7 +1518,7 @@
         "url": "https://app.clickup.com/t/86akfy373",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akr6ftt",
@@ -1535,7 +1535,7 @@
         "url": "https://app.clickup.com/t/86akr6ftt",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajeemp2",
@@ -1552,7 +1552,7 @@
         "url": "https://app.clickup.com/t/86ajeemp2",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86agmqhz2",
@@ -1569,7 +1569,7 @@
         "url": "https://app.clickup.com/t/86agmqhz2",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86afygmzk",
@@ -1586,7 +1586,7 @@
         "url": "https://app.clickup.com/t/86afygmzk",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akqd8xv",
@@ -1603,7 +1603,7 @@
         "url": "https://app.clickup.com/t/86akqd8xv",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akqd8am",
@@ -1620,7 +1620,7 @@
         "url": "https://app.clickup.com/t/86akqd8am",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akqd27g",
@@ -1637,7 +1637,7 @@
         "url": "https://app.clickup.com/t/86akqd27g",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akhxjqy",
@@ -1654,7 +1654,7 @@
         "url": "https://app.clickup.com/t/86akhxjqy",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akqd059",
@@ -1671,7 +1671,7 @@
         "url": "https://app.clickup.com/t/86akqd059",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akqcw1v",
@@ -1688,7 +1688,7 @@
         "url": "https://app.clickup.com/t/86akqcw1v",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86akhuhd3",
@@ -1705,7 +1705,7 @@
         "url": "https://app.clickup.com/t/86akhuhd3",
         "team": "logistics",
         "is_promo": false,
-        "days_stalled": 15
+        "days_stalled": 16
       }
     ],
     "design": [
@@ -1724,7 +1724,7 @@
         "url": "https://app.clickup.com/t/86akt5hjp",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akrevnr",
@@ -1741,7 +1741,7 @@
         "url": "https://app.clickup.com/t/86akrevnr",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86ak95r7q",
@@ -1758,7 +1758,7 @@
         "url": "https://app.clickup.com/t/86ak95r7q",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86ak8rmuj",
@@ -1775,7 +1775,7 @@
         "url": "https://app.clickup.com/t/86ak8rmuj",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akr4mm7",
@@ -1792,7 +1792,7 @@
         "url": "https://app.clickup.com/t/86akr4mm7",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86akt5w12",
@@ -1809,7 +1809,7 @@
         "url": "https://app.clickup.com/t/86akt5w12",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86akt5w3z",
@@ -1826,7 +1826,7 @@
         "url": "https://app.clickup.com/t/86akt5w3z",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86aktyb59",
@@ -1834,7 +1834,7 @@
         "st": "a iniciar",
         "folder": "Design",
         "list": "Design",
-        "ow": "Larissa Soares",
+        "ow": "Matheus Marcello Souza Meira",
         "due": "2027-01-01",
         "start": "2027-01-01",
         "created": "2026-10-08",
@@ -1843,7 +1843,7 @@
         "url": "https://app.clickup.com/t/86aktyb59",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86akt62hd",
@@ -1860,7 +1860,7 @@
         "url": "https://app.clickup.com/t/86akt62hd",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86aktyaw1",
@@ -1877,7 +1877,7 @@
         "url": "https://app.clickup.com/t/86aktyaw1",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86akr4kcc",
@@ -1894,7 +1894,7 @@
         "url": "https://app.clickup.com/t/86akr4kcc",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 1
+        "days_stalled": 2
       },
       {
         "id": "86ahexrh5",
@@ -1911,7 +1911,7 @@
         "url": "https://app.clickup.com/t/86ahexrh5",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86ajke3g8",
@@ -1928,7 +1928,7 @@
         "url": "https://app.clickup.com/t/86ajke3g8",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt5w6e",
@@ -1936,7 +1936,7 @@
         "st": "a iniciar",
         "folder": "Design",
         "list": "Design",
-        "ow": "Soanen Machado",
+        "ow": "Juliana",
         "due": "2026-12-28",
         "start": "",
         "created": "2026-10-05",
@@ -1945,7 +1945,7 @@
         "url": "https://app.clickup.com/t/86akt5w6e",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt5w55",
@@ -1962,7 +1962,7 @@
         "url": "https://app.clickup.com/t/86akt5w55",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt5w34",
@@ -1979,7 +1979,7 @@
         "url": "https://app.clickup.com/t/86akt5w34",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt5uaj",
@@ -1996,7 +1996,7 @@
         "url": "https://app.clickup.com/t/86akt5uaj",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akt5uac",
@@ -2013,7 +2013,7 @@
         "url": "https://app.clickup.com/t/86akt5uac",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akapruw",
@@ -2030,7 +2030,7 @@
         "url": "https://app.clickup.com/t/86akapruw",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 4
+        "days_stalled": 5
       },
       {
         "id": "86akrn242",
@@ -2047,7 +2047,7 @@
         "url": "https://app.clickup.com/t/86akrn242",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86akh4x4h",
@@ -2064,7 +2064,7 @@
         "url": "https://app.clickup.com/t/86akh4x4h",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86ak954yv",
@@ -2081,7 +2081,7 @@
         "url": "https://app.clickup.com/t/86ak954yv",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 8
+        "days_stalled": 9
       },
       {
         "id": "86aeezpwc",
@@ -2098,7 +2098,7 @@
         "url": "https://app.clickup.com/t/86aeezpwc",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86akn3dfp",
@@ -2115,7 +2115,7 @@
         "url": "https://app.clickup.com/t/86akn3dfp",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajx0ypn",
@@ -2132,7 +2132,7 @@
         "url": "https://app.clickup.com/t/86ajx0ypn",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajx0uhz",
@@ -2149,7 +2149,7 @@
         "url": "https://app.clickup.com/t/86ajx0uhz",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajx0tud",
@@ -2166,7 +2166,7 @@
         "url": "https://app.clickup.com/t/86ajx0tud",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86aknkttz",
@@ -2183,7 +2183,7 @@
         "url": "https://app.clickup.com/t/86aknkttz",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajzzra8",
@@ -2200,7 +2200,7 @@
         "url": "https://app.clickup.com/t/86ajzzra8",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajm2z16",
@@ -2217,7 +2217,7 @@
         "url": "https://app.clickup.com/t/86ajm2z16",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ahexk8a",
@@ -2234,7 +2234,7 @@
         "url": "https://app.clickup.com/t/86ahexk8a",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajtj1fg",
@@ -2242,7 +2242,7 @@
         "st": "feito",
         "folder": "Design",
         "list": "Design",
-        "ow": "Matheus Marcello Souza Meira",
+        "ow": "Juliana",
         "due": "2026-09-09",
         "start": "2026-09-09",
         "created": "2026-07-30",
@@ -2251,7 +2251,7 @@
         "url": "https://app.clickup.com/t/86ajtj1fg",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajtj1j7",
@@ -2268,7 +2268,7 @@
         "url": "https://app.clickup.com/t/86ajtj1j7",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ahexqp3",
@@ -2285,7 +2285,7 @@
         "url": "https://app.clickup.com/t/86ahexqp3",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ahexgke",
@@ -2302,7 +2302,7 @@
         "url": "https://app.clickup.com/t/86ahexgke",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajx0pvt",
@@ -2319,7 +2319,7 @@
         "url": "https://app.clickup.com/t/86ajx0pvt",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 9
+        "days_stalled": 10
       },
       {
         "id": "86ajx0nkj",
@@ -2327,7 +2327,7 @@
         "st": "feito",
         "folder": "Design",
         "list": "Design",
-        "ow": "Soanen Machado",
+        "ow": "Matheus Marcello Souza Meira",
         "due": "2026-08-06",
         "start": "2026-08-06",
         "created": "2026-08-06",
@@ -2336,7 +2336,7 @@
         "url": "https://app.clickup.com/t/86ajx0nkj",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 10
+        "days_stalled": 11
       },
       {
         "id": "86ajtj236",
@@ -2344,7 +2344,7 @@
         "st": "a iniciar",
         "folder": "Design",
         "list": "Design",
-        "ow": "Soanen Machado",
+        "ow": "Juliana",
         "due": "2026-11-05",
         "start": "2026-10-30",
         "created": "2026-07-30",
@@ -2353,7 +2353,7 @@
         "url": "https://app.clickup.com/t/86ajtj236",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 10
+        "days_stalled": 11
       },
       {
         "id": "86ajuytcv",
@@ -2370,7 +2370,7 @@
         "url": "https://app.clickup.com/t/86ajuytcv",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 11
+        "days_stalled": 12
       },
       {
         "id": "86ajz1zux",
@@ -2387,7 +2387,7 @@
         "url": "https://app.clickup.com/t/86ajz1zux",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86ajzzr5g",
@@ -2404,7 +2404,7 @@
         "url": "https://app.clickup.com/t/86ajzzr5g",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86ajzzqqv",
@@ -2421,7 +2421,7 @@
         "url": "https://app.clickup.com/t/86ajzzqqv",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86ajx0p1b",
@@ -2429,7 +2429,7 @@
         "st": "feito",
         "folder": "Design",
         "list": "Design",
-        "ow": "Igor de Oliveira",
+        "ow": "Matheus Marcello Souza Meira",
         "due": "2026-08-06",
         "start": "",
         "created": "2026-08-06",
@@ -2438,7 +2438,7 @@
         "url": "https://app.clickup.com/t/86ajx0p1b",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86ajm2xmq",
@@ -2455,7 +2455,7 @@
         "url": "https://app.clickup.com/t/86ajm2xmq",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86ajm2xbf",
@@ -2472,7 +2472,7 @@
         "url": "https://app.clickup.com/t/86ajm2xbf",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86akj9mzw",
@@ -2489,7 +2489,7 @@
         "url": "https://app.clickup.com/t/86akj9mzw",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 24
+        "days_stalled": 25
       },
       {
         "id": "86akj9m5q",
@@ -2506,7 +2506,7 @@
         "url": "https://app.clickup.com/t/86akj9m5q",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 24
+        "days_stalled": 25
       },
       {
         "id": "86ajke3c9",
@@ -2523,7 +2523,7 @@
         "url": "https://app.clickup.com/t/86ajke3c9",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 25
+        "days_stalled": 26
       },
       {
         "id": "86ajuyrwx",
@@ -2540,7 +2540,7 @@
         "url": "https://app.clickup.com/t/86ajuyrwx",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 28
+        "days_stalled": 29
       },
       {
         "id": "86ajthxe7",
@@ -2548,7 +2548,7 @@
         "st": "a iniciar",
         "folder": "Design",
         "list": "Design",
-        "ow": "Igor de Oliveira",
+        "ow": "Isabelle Alves",
         "due": "2026-11-13",
         "start": "2026-10-12",
         "created": "2026-07-30",
@@ -2557,7 +2557,7 @@
         "url": "https://app.clickup.com/t/86ajthxe7",
         "team": "design",
         "is_promo": false,
-        "days_stalled": 30
+        "days_stalled": 31
       }
     ],
     "marketing": [
@@ -2576,7 +2576,7 @@
         "url": "https://app.clickup.com/t/86aku3kk9",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 0
+        "days_stalled": 1
       },
       {
         "id": "86ahrutuz",
@@ -2593,7 +2593,7 @@
         "url": "https://app.clickup.com/t/86ahrutuz",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 2
+        "days_stalled": 3
       },
       {
         "id": "86akruzf8",
@@ -2610,7 +2610,7 @@
         "url": "https://app.clickup.com/t/86akruzf8",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akruz8g",
@@ -2627,7 +2627,7 @@
         "url": "https://app.clickup.com/t/86akruz8g",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akruyet",
@@ -2644,7 +2644,7 @@
         "url": "https://app.clickup.com/t/86akruyet",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akruxy5",
@@ -2661,7 +2661,7 @@
         "url": "https://app.clickup.com/t/86akruxy5",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akruxwp",
@@ -2678,7 +2678,7 @@
         "url": "https://app.clickup.com/t/86akruxwp",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 7
+        "days_stalled": 8
       },
       {
         "id": "86akbmaqj",
@@ -2695,7 +2695,7 @@
         "url": "https://app.clickup.com/t/86akbmaqj",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       },
       {
         "id": "86aknnha6",
@@ -2712,7 +2712,7 @@
         "url": "https://app.clickup.com/t/86aknnha6",
         "team": "marketing",
         "is_promo": false,
-        "days_stalled": 17
+        "days_stalled": 18
       }
     ]
   },
@@ -9924,12 +9924,6 @@
       "date": "2026-10-08",
       "title": "Prime Big Deal Days US",
       "type": "promo"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Review Estratégico",
-      "time": "14:00",
-      "type": "recorrente"
     },
     {
       "date": "2026-10-13",
