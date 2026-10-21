@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T21:17:00.692898-03:00",
-  "updated_at": "2026-10-20T21:17:00.692898-03:00",
+  "generated_at": "2026-10-21T02:36:17.644151-03:00",
+  "updated_at": "2026-10-21T02:36:17.644151-03:00",
   "clients": {},
   "tasks": {},
   "tasks_by_team": {},
@@ -7212,12 +7212,6 @@
       "date": "2026-10-08",
       "title": "Prime Big Deal Days US",
       "type": "promo"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Reunião Semanal de AMs",
-      "time": "10:00",
-      "type": "recorrente"
     },
     {
       "date": "2026-10-23",
