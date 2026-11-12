@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T19:24:03.579587-03:00",
-  "updated_at": "2026-11-11T19:24:03.579587-03:00",
+  "generated_at": "2026-11-12T00:30:47.619949-03:00",
+  "updated_at": "2026-11-12T00:30:47.619949-03:00",
   "clients": {},
   "tasks": {},
   "tasks_by_team": {},
@@ -7371,6 +7371,12 @@
       "date": "2027-02-05",
       "title": "Review Estratégico",
       "time": "14:00",
+      "type": "recorrente"
+    },
+    {
+      "date": "2027-02-09",
+      "title": "Reunião Semanal de AMs",
+      "time": "10:00",
       "type": "recorrente"
     }
   ],
