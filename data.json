@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:53:40.924689-03:00",
-  "updated_at": "2026-11-20T19:53:40.924689-03:00",
+  "generated_at": "2026-11-21T00:40:31.853337-03:00",
+  "updated_at": "2026-11-21T00:40:31.853337-03:00",
   "clients": {},
   "tasks": {},
   "tasks_by_team": {},
@@ -7212,12 +7212,6 @@
       "date": "2026-10-08",
       "title": "Prime Big Deal Days US",
       "type": "promo"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Review Estratégico",
-      "time": "14:00",
-      "type": "recorrente"
     },
     {
       "date": "2026-11-24",
